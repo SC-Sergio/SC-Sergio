@@ -1,22 +1,23 @@
 <div align="center">
-<!-- Aquí podríamos incluir alguna imagen personalizada o comentario -->
+<!-- ![](https://typograssy.deno.dev/api?text=お兄ちゃんはおしまい!&l0=none&bg=none&frame=none&speed=100&comment=) -->
+<!-- ![](https://typograssy.deno.dev/api?text=お兄ちゃんはおしまい!&l0=none&l1=00cce6&l2=80f1ff&l3=009eb3&l4=caf9ff&bg=none&frame=none&speed=100&comment=) -->
 </div>
 
-![Preview](./images/tu_imagen.webp)
+![Preview](./images/bg.webp)
 
-<a href="https://discord.gg/tu_enlace"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/tu_id_discord?imgStyle=square&gradient=tu_gradiente&bg=tu_fondo"></a>
+<a href="https://discord.gg/tu_enlace"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/tu_id_discord?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 ### ¡Hola!👋 Soy Sergio Carey
 
 **Ingeniero Informático y Entusiasta de la IA**
 
 ## **☕ Sobre mí**
-<a href="https://github.com/SC-Sergio"><img align="left" width="100" src="./images/tu_imagen.png"></a>
+<a href="https://github.com/SC-Sergio"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
 Soy un apasionado de la informática y la inteligencia artificial. Mis hobbies incluyen jugar videojuegos, ver anime, y explorar nuevas tecnologías.
 <br><br>
 
 ## **💻 Experiencia**
-<a href="https://github.com/SC-Sergio"><img align="right" width="100" src="./images/tu_imagen.png"></a>
+<a href="https://github.com/SC-Sergio"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
 Actualmente trabajo como Ingeniero Informático, especializado en Python y AI. Estoy desarrollando un asistente para ayudar a los usuarios a aprobar el examen de conducción de clase B utilizando Flask, Twilio y APIs de pago como Mercado Pago.
 
 ## **📊 Estadísticas de GitHub**
@@ -24,7 +25,7 @@ Actualmente trabajo como Ingeniero Informático, especializado en Python y AI. E
 </p>
 
 ## **📫 Contacto**
-<a href="https://github.com/SC-Sergio"><img align="right" width="100" src="./images/tu_imagen.png" /></a>
+<a href="https://github.com/SC-Sergio"><img align="right" width="100" src="./images/mahiro_box.png" /></a>
 **Por favor contáctame en Discord para una respuesta rápida:** [tu_discord](https://discord.com/users/tu_id_discord)
 
 **También puedes enviarme un correo aquí:** sergio@example.com
