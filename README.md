@@ -37,10 +37,10 @@ Un proyecto para encriptar y desencriptar textos de manera segura.
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SC-Sergio&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SC-Sergio&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
-## 🎧 Ahora escuchando en Spotify
+## 🎧 Lo que más escucho
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=fnp3ovsd69adozimblx305dfo&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=fnp3ovsd69adozimblx305dfo&cover_image=true&theme=default&bar_color_cover=true">
+  <a href="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM">
+    <img src="https://img.shields.io/badge/Lofi%20Girl-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Lofi Girl Playlist">
   </a>
 </p>
 
@@ -52,3 +52,4 @@ Un proyecto para encriptar y desencriptar textos de manera segura.
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198080346056/)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:sergiocareyhola@gmail.com)
+
