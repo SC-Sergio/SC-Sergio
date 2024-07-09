@@ -34,13 +34,6 @@ Un proyecto para la gestión y reserva de canchas deportivas, optimizando el uso
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SC-Sergio&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SC-Sergio&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
-## 🎧 Ahora escuchando en Spotify
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=fnp3ovsd69adozimblx305dfo&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=fnp3ovsd69adozimblx305dfo&cover_image=true&theme=default&bar_color_cover=true">
-  </a>
-</p>
-
 ## **📫 Contacto**
 <a href="https://github.com/SC-Sergio"><img align="right" width="100" src="./images/mahiro_box.png" /></a>
 **Si quieres contactarme, por favor escríbeme por los siguientes enlaces:**
