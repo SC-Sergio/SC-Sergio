@@ -27,7 +27,7 @@ Actualmente, soy Ingeniero Informático titulado en Inacap. Tengo una sólida fo
 ### [Proyecto de Conducción](https://github.com/SC-Sergio/ProyectoConduccion)
 Un asistente para ayudar a los usuarios a aprobar el examen de conducción de clase B utilizando Flask, Twilio y APIs de pago como Mercado Pago.
 
-### [CanchaClara](https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/)
+### [CanchaClara](https://github.com/SC-Sergio/canchaclara)
 Un proyecto para la gestión y reserva de canchas deportivas, optimizando el uso y acceso a instalaciones deportivas.
 
 ## **📊 Estadísticas de GitHub**
