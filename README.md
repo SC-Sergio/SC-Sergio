@@ -24,7 +24,7 @@ Actualmente, soy Ingeniero Informático titulado en Inacap. Tengo una sólida fo
 
 ## 🚀 Proyectos Destacados
 
-### Proyecto de Conducción
+### Proyecto de Asistente Para Aprobar El Examen de Conducir claseb
 Proyecto en Proceso...
 
 ### [CanchaClara](https://github.com/SC-Sergio/canchaclara)
