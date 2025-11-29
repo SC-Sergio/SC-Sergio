@@ -33,10 +33,6 @@ Un proyecto para la gestión y reserva de canchas deportivas, optimizando el uso
 ### [Challenge Encriptador](https://github.com/SC-Sergio/challenge-encriptador)
 Un proyecto para encriptar y desencriptar textos de manera segura.
 
-## **📊 Estadísticas de GitHub**
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SC-Sergio&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SC-Sergio&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
-</p>
-
 ## 🎧 Lo que más escucho
 <p align="center">
   <a href="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM">
