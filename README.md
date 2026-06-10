@@ -24,7 +24,13 @@ Desarrollo soluciones prácticas con foco en **Python**, **inteligencia artifici
 
 ## Perfil profesional
 
+<img align="left" width="105" src="./images/mahiro_switch.png" alt="Ilustración anime representando cambio, evolución y adaptación tecnológica" />
+
 Soy **Ingeniero Informático titulado en INACAP**, con interés en crear software que resuelva problemas reales. Mi trabajo combina desarrollo backend, automatización, flujos conversacionales, integración de APIs, despliegue de soluciones aplicadas y mejora continua de la experiencia de usuario.
+
+Me interesa especialmente la creación de asistentes inteligentes, sistemas web funcionales, chatbots útiles y herramientas que simplifiquen procesos cotidianos mediante tecnología.
+
+<br clear="left" />
 
 | Área           | Enfoque                                                          |
 | -------------- | ---------------------------------------------------------------- |
@@ -37,6 +43,8 @@ Soy **Ingeniero Informático titulado en INACAP**, con interés en crear softwar
 ---
 
 ## Stack principal
+
+<img align="right" width="100" src="./images/mahiro_thumb.png" alt="Ilustración anime positiva relacionada con tecnologías y habilidades principales" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -65,9 +73,13 @@ Soy **Ingeniero Informático titulado en INACAP**, con interés en crear softwar
   </p>
 </details>
 
+<br clear="right" />
+
 ---
 
 ## Proyectos destacados
+
+<img align="right" width="105" src="./images/mahiro_flex.png" alt="Ilustración anime expresando logro, energía y proyectos destacados" />
 
 ### 🚗 Asistente para aprobar el examen de conducir Clase B
 
@@ -98,6 +110,8 @@ Plataforma para gestión y reserva de canchas deportivas, pensada para ordenar d
 **Stack:** Vue, JavaScript, MySQL
 **Valor que aporta:** organización de recursos, experiencia de reserva y enfoque de producto aplicado.
 
+<br clear="right" />
+
 ---
 
 <details>
@@ -125,6 +139,22 @@ Aplicación enfocada en la visualización de sismos recientes y eventos cercanos
 
 ---
 
+## Cómo trabajo
+
+<img align="left" width="100" src="./images/mahiro_cry.png" alt="Ilustración anime representando debugging, errores y mejora continua" />
+
+Me gusta trabajar de forma práctica: probar, detectar errores, corregir, mejorar la experiencia de usuario y dejar los proyectos cada vez más claros y usables. Para mí, programar no es solo escribir código, también es entender el problema, ordenar el flujo y construir una solución que realmente sirva.
+
+* Analizo el problema antes de implementar.
+* Priorizo soluciones simples y mantenibles.
+* Mejoro interfaces y flujos según el uso real.
+* Pruebo, depuro y documento cambios importantes.
+* Busco que cada proyecto tenga una utilidad concreta.
+
+<br clear="left" />
+
+---
+
 ## Actualmente enfocado en
 
 * Automatización y asistentes inteligentes con Python.
@@ -140,22 +170,26 @@ Aplicación enfocada en la visualización de sismos recientes y eventos cercanos
 
   <br />
 
-  <p align="center">
-    <img src="./images/mahiro_thumb.png" width="120" alt="Ilustración anime sutil como parte de la identidad visual del perfil de Sergio Carey" />
-  </p>
+  <img align="right" width="115" src="./images/mahiro.png" alt="Ilustración anime asociada a la identidad gamer, anime y tecnológica del perfil" />
 
 Además del desarrollo de software, me gustan los videojuegos, el anime y explorar nuevas herramientas de inteligencia artificial aplicadas a productividad, programación y creación digital.
+
+Me interesa la mezcla entre tecnología, creatividad, asistentes virtuales, automatización y diseño de experiencias útiles.
 
   <p>
     <a href="https://steamcommunity.com/profiles/76561198080346056/">
       <img src="https://img.shields.io/badge/Steam-Perfil%20gamer-1B2838?style=flat-square&logo=steam&logoColor=white" alt="Perfil de Steam de Sergio Carey" />
     </a>
   </p>
+
+  <br clear="right" />
 </details>
 
 ---
 
 ## Contacto
+
+<img align="right" width="105" src="./images/mahiro_box.png" alt="Ilustración anime relacionada con contacto, mensajes y cierre del perfil" />
 
 <p>
   <a href="https://github.com/SC-Sergio">
@@ -169,8 +203,11 @@ Además del desarrollo de software, me gustan los videojuegos, el anime y explor
   </a>
 </p>
 
+<br clear="right" />
+
 ---
 
 <p align="center">
   Gracias por visitar mi perfil 👋
 </p>
+****
