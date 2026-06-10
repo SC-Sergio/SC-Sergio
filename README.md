@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/bg.webp" alt="Banner de Sergio Carey con estética tecnológica, de inteligencia artificial y anime sutil" />
+  <img src="./images/bg.webp" alt="Banner de Sergio Carey con estética tecnológica, inteligencia artificial y anime sutil" />
 </p>
 
 # Sergio Carey
@@ -20,17 +20,21 @@ Desarrollo soluciones prácticas con foco en **Python**, **inteligencia artifici
   </a>
 </p>
 
+---
+
 ## Perfil profesional
 
-Soy Ingeniero Informático y me interesa crear software que resuelva problemas reales. Mi trabajo combina desarrollo backend, automatización, flujos conversacionales, integración de APIs y despliegue de soluciones aplicadas.
+Soy **Ingeniero Informático titulado en INACAP**, con interés en crear software que resuelva problemas reales. Mi trabajo combina desarrollo backend, automatización, flujos conversacionales, integración de APIs, despliegue de soluciones aplicadas y mejora continua de la experiencia de usuario.
 
-| Área | Enfoque |
-| --- | --- |
-| Backend | Python, Flask, Django, APIs y lógica de negocio |
-| IA aplicada | asistentes, automatización y flujos conversacionales |
-| Chatbots | WhatsApp, Twilio y experiencia conversacional |
-| Desarrollo web | interfaces funcionales e integración frontend/backend |
-| Despliegue | Docker, entornos reproducibles y mejora continua |
+| Área           | Enfoque                                                          |
+| -------------- | ---------------------------------------------------------------- |
+| Backend        | Python, Flask, Django, APIs y lógica de negocio                  |
+| IA aplicada    | Asistentes, automatización, prompts e integración con modelos IA |
+| Chatbots       | WhatsApp, Twilio, menús conversacionales y UX conversacional     |
+| Desarrollo web | Interfaces funcionales e integración frontend/backend            |
+| Despliegue     | Docker, Linux, entornos reproducibles y pruebas continuas        |
+
+---
 
 ## Stack principal
 
@@ -46,7 +50,9 @@ Soy Ingeniero Informático y me interesa crear software que resuelva problemas r
 
 <details>
   <summary>Tecnologías complementarias</summary>
+
   <br />
+
   <p>
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -59,67 +65,86 @@ Soy Ingeniero Informático y me interesa crear software que resuelva problemas r
   </p>
 </details>
 
+---
+
 ## Proyectos destacados
 
-### Asistente para aprobar el examen de conducir Clase B
+### 🚗 Asistente para aprobar el examen de conducir Clase B
 
 Bot de WhatsApp orientado a la preparación del examen teórico Clase B en Chile. Integra preguntas, ranking, perfil de usuario, logros y práctica enfocada en errores frecuentes.
 
-**Stack:** Python, Flask, Twilio, Docker  
-**Valor que aporta:** automatización conversacional, gamificación y una experiencia práctica centrada en el usuario.
+**Stack:** Python, Flask, Twilio, Docker
+**Valor que aporta:** automatización conversacional, gamificación, práctica personalizada y experiencia centrada en el usuario.
 
-<!-- Reemplaza este comentario por la URL real del repositorio cuando el proyecto esté público -->
+<!-- Cuando el repositorio esté público, reemplaza este comentario por el enlace real del proyecto -->
 
-### [CanchaClara](https://github.com/SC-Sergio/canchaclara)
+---
 
-Plataforma para gestión y reserva de canchas deportivas, pensada para ordenar disponibilidad, reservas y administración operativa.
-
-**Stack:** Vue, JavaScript, MySQL  
-**Valor que aporta:** organización de recursos, experiencia de reserva y enfoque de producto aplicado.
-
-### FastLaundry
+### 🧺 FastLaundry
 
 Sistema de gestión para lavandería orientado a pedidos, caja, pagos, guías y operación diaria.
 
-**Stack:** Python, Django, SQLite  
-**Valor que aporta:** modelado de procesos reales, gestión operativa y soporte a tareas de negocio.
+**Stack:** Python, Django, SQLite
+**Valor que aporta:** gestión de procesos reales, control operativo, registro de pagos y soporte a tareas de negocio.
 
-<!-- Reemplaza este comentario por la URL real del repositorio cuando el proyecto esté público -->
+<!-- Cuando el repositorio esté público, reemplaza este comentario por el enlace real del proyecto -->
+
+---
+
+### 🏟️ [CanchaClara](https://github.com/SC-Sergio/canchaclara)
+
+Plataforma para gestión y reserva de canchas deportivas, pensada para ordenar disponibilidad, reservas y administración operativa.
+
+**Stack:** Vue, JavaScript, MySQL
+**Valor que aporta:** organización de recursos, experiencia de reserva y enfoque de producto aplicado.
+
+---
 
 <details>
   <summary>Ver más proyectos</summary>
+
   <br />
 
-### [Challenge Encriptador](https://github.com/SC-Sergio/challenge-encriptador)
+### 🔐 [Challenge Encriptador](https://github.com/SC-Sergio/challenge-encriptador)
 
 Aplicación web para encriptar y desencriptar texto con una interfaz simple y directa.
 
 **Stack:** HTML, CSS, JavaScript
 
-### Alerta Sísmica Arica
+---
+
+### 🌎 Alerta Sísmica Arica
 
 Aplicación enfocada en la visualización de sismos recientes y eventos cercanos a Arica.
 
 **Stack:** Kotlin, Android
 
-<!-- Reemplaza este comentario por la URL real del repositorio cuando el proyecto esté público -->
+<!-- Cuando el repositorio esté público, reemplaza este comentario por el enlace real del proyecto -->
+
 </details>
+
+---
 
 ## Actualmente enfocado en
 
-- Automatización y asistentes inteligentes con Python.
-- Integración de IA en soluciones útiles y aplicadas.
-- APIs, chatbots y experiencias conversacionales.
-- Desarrollo de plataformas web mantenibles y desplegables.
+* Automatización y asistentes inteligentes con Python.
+* Integración de IA en soluciones útiles y aplicadas.
+* APIs, chatbots y experiencias conversacionales.
+* Desarrollo de plataformas web mantenibles y desplegables.
+* Mejora de proyectos personales para portafolio profesional.
+
+---
 
 <details>
   <summary>Más allá del código</summary>
+
   <br />
+
   <p align="center">
     <img src="./images/mahiro_thumb.png" width="120" alt="Ilustración anime sutil como parte de la identidad visual del perfil de Sergio Carey" />
   </p>
 
-Además del desarrollo de software, me interesan los videojuegos, el anime y la exploración de herramientas de IA aplicadas a productividad, programación y creación digital.
+Además del desarrollo de software, me gustan los videojuegos, el anime y explorar nuevas herramientas de inteligencia artificial aplicadas a productividad, programación y creación digital.
 
   <p>
     <a href="https://steamcommunity.com/profiles/76561198080346056/">
@@ -128,3 +153,24 @@ Además del desarrollo de software, me interesan los videojuegos, el anime y la 
   </p>
 </details>
 
+---
+
+## Contacto
+
+<p>
+  <a href="https://github.com/SC-Sergio">
+    <img src="https://img.shields.io/badge/GitHub-SC--Sergio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Sergio Carey" />
+  </a>
+  <a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Carey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Sergio Carey" />
+  </a>
+  <a href="mailto:sergiocareyhola@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-sergiocareyhola%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo de Sergio Carey" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Gracias por visitar mi perfil 👋
+</p>
