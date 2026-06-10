@@ -24,13 +24,21 @@ Desarrollo soluciones prácticas con foco en **Python**, **inteligencia artifici
 
 ## Perfil profesional
 
-<img align="left" width="105" src="./images/mahiro_switch.png" alt="Ilustración anime representando cambio, evolución y adaptación tecnológica" />
-
-Soy **Ingeniero Informático titulado en INACAP**, con interés en crear software que resuelva problemas reales. Mi trabajo combina desarrollo backend, automatización, flujos conversacionales, integración de APIs, despliegue de soluciones aplicadas y mejora continua de la experiencia de usuario.
-
-Me interesa especialmente la creación de asistentes inteligentes, sistemas web funcionales, chatbots útiles y herramientas que simplifiquen procesos cotidianos mediante tecnología.
-
-<br clear="left" />
+<table>
+  <tr>
+    <td width="120" align="center" valign="top">
+      <img src="./images/mahiro_switch.png" width="95" alt="Ilustración anime representando evolución, cambio y adaptación tecnológica" />
+    </td>
+    <td valign="top">
+      <p>
+        Soy <strong>Ingeniero Informático titulado en INACAP</strong>, con interés en crear software que resuelva problemas reales. Mi trabajo combina desarrollo backend, automatización, flujos conversacionales, integración de APIs, despliegue de soluciones aplicadas y mejora continua de la experiencia de usuario.
+      </p>
+      <p>
+        Me interesa especialmente la creación de asistentes inteligentes, sistemas web funcionales, chatbots útiles y herramientas que simplifiquen procesos cotidianos mediante tecnología.
+      </p>
+    </td>
+  </tr>
+</table>
 
 | Área           | Enfoque                                                          |
 | -------------- | ---------------------------------------------------------------- |
@@ -44,17 +52,24 @@ Me interesa especialmente la creación de asistentes inteligentes, sistemas web 
 
 ## Stack principal
 
-<img align="right" width="100" src="./images/mahiro_thumb.png" alt="Ilustración anime positiva relacionada con tecnologías y habilidades principales" />
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
+    </td>
+    <td width="120" align="center" valign="top">
+      <img src="./images/mahiro_thumb.png" width="90" alt="Ilustración anime positiva asociada a tecnologías y habilidades principales" />
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary>Tecnologías complementarias</summary>
@@ -73,13 +88,22 @@ Me interesa especialmente la creación de asistentes inteligentes, sistemas web 
   </p>
 </details>
 
-<br clear="right" />
-
 ---
 
 ## Proyectos destacados
 
-<img align="right" width="105" src="./images/mahiro_flex.png" alt="Ilustración anime expresando logro, energía y proyectos destacados" />
+<table>
+  <tr>
+    <td width="120" align="center" valign="top">
+      <img src="./images/mahiro_flex.png" width="95" alt="Ilustración anime expresando energía, logro y proyectos destacados" />
+    </td>
+    <td valign="top">
+      <p>
+        Estos son algunos de los proyectos que mejor representan mi enfoque actual: soluciones prácticas, automatización, desarrollo web, chatbots y sistemas pensados para resolver necesidades reales.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 🚗 Asistente para aprobar el examen de conducir Clase B
 
@@ -110,8 +134,6 @@ Plataforma para gestión y reserva de canchas deportivas, pensada para ordenar d
 **Stack:** Vue, JavaScript, MySQL
 **Valor que aporta:** organización de recursos, experiencia de reserva y enfoque de producto aplicado.
 
-<br clear="right" />
-
 ---
 
 <details>
@@ -141,17 +163,25 @@ Aplicación enfocada en la visualización de sismos recientes y eventos cercanos
 
 ## Cómo trabajo
 
-<img align="left" width="100" src="./images/mahiro_cry.png" alt="Ilustración anime representando debugging, errores y mejora continua" />
-
-Me gusta trabajar de forma práctica: probar, detectar errores, corregir, mejorar la experiencia de usuario y dejar los proyectos cada vez más claros y usables. Para mí, programar no es solo escribir código, también es entender el problema, ordenar el flujo y construir una solución que realmente sirva.
-
-* Analizo el problema antes de implementar.
-* Priorizo soluciones simples y mantenibles.
-* Mejoro interfaces y flujos según el uso real.
-* Pruebo, depuro y documento cambios importantes.
-* Busco que cada proyecto tenga una utilidad concreta.
-
-<br clear="left" />
+<table>
+  <tr>
+    <td width="120" align="center" valign="top">
+      <img src="./images/mahiro_cry.png" width="95" alt="Ilustración anime representando debugging, errores, pruebas y mejora continua" />
+    </td>
+    <td valign="top">
+      <p>
+        Me gusta trabajar de forma práctica: probar, detectar errores, corregir, mejorar la experiencia de usuario y dejar los proyectos cada vez más claros y usables.
+      </p>
+      <ul>
+        <li>Analizo el problema antes de implementar.</li>
+        <li>Priorizo soluciones simples y mantenibles.</li>
+        <li>Mejoro interfaces y flujos según el uso real.</li>
+        <li>Pruebo, depuro y documento cambios importantes.</li>
+        <li>Busco que cada proyecto tenga una utilidad concreta.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -170,44 +200,56 @@ Me gusta trabajar de forma práctica: probar, detectar errores, corregir, mejora
 
   <br />
 
-  <img align="right" width="115" src="./images/mahiro.png" alt="Ilustración anime asociada a la identidad gamer, anime y tecnológica del perfil" />
-
-Además del desarrollo de software, me gustan los videojuegos, el anime y explorar nuevas herramientas de inteligencia artificial aplicadas a productividad, programación y creación digital.
-
-Me interesa la mezcla entre tecnología, creatividad, asistentes virtuales, automatización y diseño de experiencias útiles.
-
-  <p>
-    <a href="https://steamcommunity.com/profiles/76561198080346056/">
-      <img src="https://img.shields.io/badge/Steam-Perfil%20gamer-1B2838?style=flat-square&logo=steam&logoColor=white" alt="Perfil de Steam de Sergio Carey" />
-    </a>
-  </p>
-
-  <br clear="right" />
+  <table>
+    <tr>
+      <td width="120" align="center" valign="top">
+        <img src="./images/mahiro.png" width="95" alt="Ilustración anime asociada a la identidad gamer, anime y tecnológica del perfil" />
+      </td>
+      <td valign="top">
+        <p>
+          Además del desarrollo de software, me gustan los videojuegos, el anime y explorar nuevas herramientas de inteligencia artificial aplicadas a productividad, programación y creación digital.
+        </p>
+        <p>
+          Me interesa la mezcla entre tecnología, creatividad, asistentes virtuales, automatización y diseño de experiencias útiles.
+        </p>
+        <p>
+          <a href="https://steamcommunity.com/profiles/76561198080346056/">
+            <img src="https://img.shields.io/badge/Steam-Perfil%20gamer-1B2838?style=flat-square&logo=steam&logoColor=white" alt="Perfil de Steam de Sergio Carey" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </details>
 
 ---
 
 ## Contacto
 
-<img align="right" width="105" src="./images/mahiro_box.png" alt="Ilustración anime relacionada con contacto, mensajes y cierre del perfil" />
-
-<p>
-  <a href="https://github.com/SC-Sergio">
-    <img src="https://img.shields.io/badge/GitHub-SC--Sergio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Sergio Carey" />
-  </a>
-  <a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Carey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Sergio Carey" />
-  </a>
-  <a href="mailto:sergiocareyhola@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-sergiocareyhola%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo de Sergio Carey" />
-  </a>
-</p>
-
-<br clear="right" />
-
----
+<table>
+  <tr>
+    <td valign="top">
+      <p>
+        Puedes revisar mis perfiles o contactarme mediante los siguientes enlaces:
+      </p>
+      <p>
+        <a href="https://github.com/SC-Sergio">
+          <img src="https://img.shields.io/badge/GitHub-SC--Sergio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Sergio Carey" />
+        </a>
+        <a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/">
+          <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Carey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Sergio Carey" />
+        </a>
+        <a href="mailto:sergiocareyhola@gmail.com">
+          <img src="https://img.shields.io/badge/Correo-sergiocareyhola%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo de Sergio Carey" />
+        </a>
+      </p>
+    </td>
+    <td width="120" align="center" valign="top">
+      <img src="./images/mahiro_box.png" width="95" alt="Ilustración anime relacionada con contacto, mensajes y cierre del perfil" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   Gracias por visitar mi perfil 👋
 </p>
-****
