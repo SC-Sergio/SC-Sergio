@@ -156,6 +156,15 @@ Academic background in software development, databases, applied artificial intel
 
 Certification covering **artificial intelligence, machine learning and generative AI foundations in Oracle Cloud Infrastructure**. Exam passed in September 2026.
 
+### 🛡️ Cisco Networking Academy · Fundamentos de Ciberseguridad
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Completed%202026-0B5CAD?style=for-the-badge" alt="Cybersecurity credential completed in 2026" />
+</p>
+
+Completed **Fundamentos de Ciberseguridad - Egresados INACAP** through Cisco Networking Academy, earning a completion certificate and digital credential in August 2026.
+
 ### 📊 IBM Data Science · Coursera
 
 <p>
