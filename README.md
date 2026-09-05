@@ -147,44 +147,48 @@ Proyecto de ciencia de datos centrado en análisis y predicción de aterrizajes 
 
 <p align="center"><img src="./images/mahiro.png" width="110" alt="Ilustración asociada a aprendizaje y crecimiento profesional" /></p>
 
-### 🎓 Ingeniería en Informática
-
-<p>
-  <img src="https://img.shields.io/badge/INACAP-Ingeniería%20en%20Informática-C8102E?style=for-the-badge" alt="INACAP Ingeniería en Informática" />
-  <img src="https://img.shields.io/badge/Titulación-2024-374151?style=for-the-badge" alt="Titulado en 2024" />
-</p>
-
-**INACAP · Titulado en 2024**
-
-Formación en desarrollo de software, bases de datos, inteligencia artificial aplicada, datos y construcción de soluciones informáticas.
+<p align="center"><strong>Orden cronológico: más reciente → más antiguo</strong></p>
 
 ### ☁️ Oracle Cloud Infrastructure 2026 Certified AI Foundations Associate
 
 <p>
   <img src="https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI AI Foundations Associate" />
-  <img src="https://img.shields.io/badge/Examen-1Z0--1122--26-8B1A1A?style=for-the-badge" alt="Examen 1Z0-1122-26" />
+  <img src="https://img.shields.io/badge/Fecha-02%20Sep%202026-374151?style=for-the-badge" alt="2 de septiembre de 2026" />
   <img src="https://img.shields.io/badge/Estado-Aprobado-15803D?style=for-the-badge" alt="Aprobado" />
 </p>
 
-Certificación de fundamentos de **inteligencia artificial, machine learning e IA generativa en Oracle Cloud Infrastructure**. Examen aprobado en septiembre de 2026.
+**Examen:** 1Z0-1122-26 · **Aprobado el 2 de septiembre de 2026.**
+
+Certificación de fundamentos de **inteligencia artificial, machine learning e IA generativa en Oracle Cloud Infrastructure**.
 
 ### 🛡️ Cisco Networking Academy · Fundamentos de Ciberseguridad
 
 <p>
   <img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy" />
-  <img src="https://img.shields.io/badge/Ciberseguridad-Completado%202026-0B5CAD?style=for-the-badge" alt="Fundamentos de Ciberseguridad completado en 2026" />
+  <img src="https://img.shields.io/badge/Fecha-14%20Ago%202026-374151?style=for-the-badge" alt="14 de agosto de 2026" />
 </p>
 
-**Fundamentos de Ciberseguridad - Egresados INACAP** · Certificado de finalización y credencial digital obtenidos en agosto de 2026.
+**Fundamentos de Ciberseguridad - Egresados INACAP** · Completado el **14 de agosto de 2026**, con certificado de finalización y credencial digital.
+
+### 🎓 Ingeniería en Informática · INACAP
+
+<p>
+  <img src="https://img.shields.io/badge/INACAP-Ingeniería%20en%20Informática-C8102E?style=for-the-badge" alt="INACAP Ingeniería en Informática" />
+  <img src="https://img.shields.io/badge/Título%20obtenido-16%20Ago%202024-374151?style=for-the-badge" alt="Título obtenido el 16 de agosto de 2024" />
+</p>
+
+**Título profesional obtenido el 16 de agosto de 2024.** El certificado oficial de INACAP fue emitido el **24 de septiembre de 2024**.
+
+Formación en desarrollo de software, bases de datos, inteligencia artificial aplicada, datos y construcción de soluciones informáticas.
 
 ### 📊 IBM Data Science · Coursera
 
 <p>
   <img src="https://img.shields.io/badge/IBM-Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science" />
-  <img src="https://img.shields.io/badge/Coursera-Formación%202024-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" />
+  <img src="https://img.shields.io/badge/Finalización-04%20Jul%202024-374151?style=for-the-badge" alt="Trayectoria finalizada el 4 de julio de 2024" />
 </p>
 
-Durante 2024 completé una trayectoria intensiva de cursos de **IBM Data Science en Coursera**, con contenidos de Python, SQL, análisis y visualización de datos, machine learning, IA generativa y un proyecto final aplicado a SpaceX.
+Trayectoria intensiva de cursos de **IBM Data Science en Coursera**, con cursos completados entre el **27 de junio y el 4 de julio de 2024**. Incluye Python, SQL, análisis y visualización de datos, machine learning, IA generativa y proyecto final aplicado a SpaceX.
 
 <details>
 <summary><strong>Ver cursos completados verificados</strong></summary>
