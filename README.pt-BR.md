@@ -137,6 +137,15 @@ Formação em desenvolvimento de software, bancos de dados, inteligência artifi
 
 Certificação sobre fundamentos de **inteligência artificial, machine learning e IA generativa no Oracle Cloud Infrastructure**. Exame aprovado em setembro de 2026.
 
+### 🛡️ Cisco Networking Academy · Fundamentos de Ciberseguridad
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy" />
+  <img src="https://img.shields.io/badge/Cibersegurança-Concluído%202026-0B5CAD?style=for-the-badge" alt="Credencial de cibersegurança concluída em 2026" />
+</p>
+
+Concluí **Fundamentos de Ciberseguridad - Egresados INACAP** pela Cisco Networking Academy, obtendo certificado de conclusão e credencial digital em agosto de 2026.
+
 ### 📊 IBM Data Science · Coursera
 
 <p>
