@@ -135,44 +135,48 @@ Data science project focused on Falcon 9 landing analysis and prediction.
 
 <p align="center"><img src="./images/mahiro.png" width="110" alt="Illustration associated with learning and professional growth" /></p>
 
-### 🎓 Informatics Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/INACAP-Informatics%20Engineering-C8102E?style=for-the-badge" alt="INACAP Informatics Engineering" />
-  <img src="https://img.shields.io/badge/Graduated-2024-374151?style=for-the-badge" alt="Graduated in 2024" />
-</p>
-
-**INACAP · Graduated in 2024**
-
-Academic background in software development, databases, applied artificial intelligence, data and information systems.
+<p align="center"><strong>Chronological order: newest → oldest</strong></p>
 
 ### ☁️ Oracle Cloud Infrastructure 2026 Certified AI Foundations Associate
 
 <p>
   <img src="https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI AI Foundations Associate" />
-  <img src="https://img.shields.io/badge/Exam-1Z0--1122--26-8B1A1A?style=for-the-badge" alt="Exam 1Z0-1122-26" />
+  <img src="https://img.shields.io/badge/Date-02%20Sep%202026-374151?style=for-the-badge" alt="September 2, 2026" />
   <img src="https://img.shields.io/badge/Status-Passed-15803D?style=for-the-badge" alt="Passed" />
 </p>
 
-Certification covering **artificial intelligence, machine learning and generative AI foundations in Oracle Cloud Infrastructure**. Exam passed in September 2026.
+**Exam:** 1Z0-1122-26 · **Passed on September 2, 2026.**
+
+Certification covering **artificial intelligence, machine learning and generative AI foundations in Oracle Cloud Infrastructure**.
 
 ### 🛡️ Cisco Networking Academy · Fundamentos de Ciberseguridad
 
 <p>
   <img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Completed%202026-0B5CAD?style=for-the-badge" alt="Cybersecurity credential completed in 2026" />
+  <img src="https://img.shields.io/badge/Date-14%20Aug%202026-374151?style=for-the-badge" alt="August 14, 2026" />
 </p>
 
-Completed **Fundamentos de Ciberseguridad - Egresados INACAP** through Cisco Networking Academy, earning a completion certificate and digital credential in August 2026.
+Completed **Fundamentos de Ciberseguridad - Egresados INACAP** on **August 14, 2026**, earning a completion certificate and digital credential.
+
+### 🎓 Informatics Engineering · INACAP
+
+<p>
+  <img src="https://img.shields.io/badge/INACAP-Informatics%20Engineering-C8102E?style=for-the-badge" alt="INACAP Informatics Engineering" />
+  <img src="https://img.shields.io/badge/Degree%20obtained-16%20Aug%202024-374151?style=for-the-badge" alt="Degree obtained August 16, 2024" />
+</p>
+
+**Professional degree obtained on August 16, 2024.** The official INACAP certificate was issued on **September 24, 2024**.
+
+Academic background in software development, databases, applied artificial intelligence, data and information systems.
 
 ### 📊 IBM Data Science · Coursera
 
 <p>
   <img src="https://img.shields.io/badge/IBM-Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science" />
-  <img src="https://img.shields.io/badge/Coursera-2024%20Learning%20Path-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" />
+  <img src="https://img.shields.io/badge/Completed-04%20Jul%202024-374151?style=for-the-badge" alt="Learning path completed July 4, 2024" />
 </p>
 
-In 2024 I completed an intensive **IBM Data Science learning path on Coursera**, covering Python, SQL, data analysis and visualization, machine learning, generative AI and a final SpaceX applied project.
+Intensive **IBM Data Science learning path on Coursera**, with verified course completions between **June 27 and July 4, 2024**. Topics include Python, SQL, data analysis and visualization, machine learning, generative AI and a final SpaceX applied project.
 
 <details>
 <summary><strong>View completed courses</strong></summary>
