@@ -5,7 +5,7 @@
 <h1 align="center">Sergio Carey</h1>
 
 <p align="center">
-  <strong>Software Engineer · Backend · Applied AI · Automation · Desktop Apps · Data</strong>
+  <strong>Informatics Engineer · Backend · Applied AI · Automation · Desktop Apps · Data</strong>
 </p>
 
 <p align="center">
@@ -13,44 +13,57 @@
 </p>
 
 <p align="center">
-  <a href="https://sergio-portfolio-v2-roan.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-View%20website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Sergio Carey portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Carey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sergio Carey LinkedIn" />
-  </a>
-  <a href="mailto:sergiocareyhola@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Sergio Carey email" />
-  </a>
+  <a href="https://sergio-portfolio-v2-roan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View%20website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/"><img src="https://img.shields.io/badge/LinkedIn-Sergio%20Carey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sergiocareyhola@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<h3 align="center">🌐 Language / Idioma</h3>
+
 <p align="center">
-  <a href="./README.md">Versión en español</a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/Español-Ver-2563EB?style=for-the-badge" alt="Español" /></a>
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/English-Current-0F766E?style=for-the-badge" alt="English" /></a>
+  <a href="./README.pt-BR.md"><img src="https://img.shields.io/badge/Português-Ver-16A34A?style=for-the-badge" alt="Português" /></a>
+  <a href="https://translate.google.com/translate?sl=en&tl=es&u=https%3A%2F%2Fgithub.com%2FSC-Sergio"><img src="https://img.shields.io/badge/🌐%20Translate-With%20Google-4285F4?style=for-the-badge" alt="Translate with Google" /></a>
+</p>
+
+<p align="center"><sub>The Spanish, English and Portuguese versions are manually maintained. The Google button opens a translated copy where the target language can be changed.</sub></p>
+
+<p align="center">
+  <a href="#professional-profile">Profile</a> ·
+  <a href="#technology-stack">Stack</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#education-and-certifications">Education</a> ·
+  <a href="#current-focus">Current focus</a> ·
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
 ## Professional profile
 
-<table>
-  <tr>
-    <td width="125" align="center" valign="top">
-      <img src="./images/mahiro_switch.png" width="95" alt="Illustration representing growth and technical adaptability" />
-    </td>
-    <td valign="top">
-      <p>
-        I am an <strong>Informatics Engineer graduated from INACAP</strong>, focused on designing and building software with clear practical value. My work combines <strong>Python, Django, PostgreSQL, automation, API integration, applied artificial intelligence, and web and desktop product development</strong>.
-      </p>
-      <p>
-        I am especially interested in turning real requirements into maintainable systems, from operational business platforms to intelligent assistants, automation tools, productivity software and conversational experiences.
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center"><img src="./images/mahiro_switch.png" width="105" alt="Illustration representing growth and technical adaptability" /></p>
 
-## Core stack
+I am an **Informatics Engineer graduated from INACAP**, focused on building software with clear practical value. My work combines **Python, Django, PostgreSQL, automation, API integration, applied artificial intelligence, and web and desktop product development**.
 
-<p>
+I am particularly interested in turning real requirements into maintainable systems, from operational business platforms to intelligent assistants, automation tools, productivity software and conversational experiences.
+
+### What I do
+
+| Area | Focus |
+| --- | --- |
+| **Backend & systems** | Business logic, APIs, authentication, operational workflows, Django and PostgreSQL. |
+| **Applied AI** | Assistants, local models, LLMs, prompting, RAG and AI service integration. |
+| **Automation** | Scheduled processes, notifications, integrations and internal tools. |
+| **Digital products** | Web, desktop and mobile applications focused on usability, stability and continuous improvement. |
+
+---
+
+## Technology stack
+
+<p align="center"><img src="./images/mahiro_thumb.png" width="95" alt="Illustration associated with the technology stack" /></p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -63,61 +76,71 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-| Area | Technologies |
+| Category | Technologies & tools |
 | --- | --- |
-| **Backend** | Python, Django, Flask, REST APIs |
+| **Backend** | Python, Django, Flask, REST APIs, business logic |
 | **Data** | PostgreSQL, MySQL, SQLite, Jupyter Notebook |
-| **Frontend** | JavaScript, TypeScript, React, Next.js, Vue, Tailwind CSS |
+| **Frontend** | JavaScript, TypeScript, React, Next.js, Vue, HTML, CSS, Tailwind CSS |
 | **Desktop / Mobile** | Tauri, Rust, Kotlin, Android |
 | **AI & automation** | Ollama, LLMs, assistants, prompting, RAG, automated workflows |
 | **Infrastructure** | Docker, Linux, Git/GitHub, Heroku, Vercel |
+| **Integrations** | Twilio, external APIs, RSS/Atom and web services |
 
 ---
 
 ## Featured projects
 
+<p align="center"><img src="./images/mahiro_flex.png" width="105" alt="Illustration associated with projects and achievements" /></p>
+
 ### 🧺 FastLaundry
 
-A real-world laundry management system for customers, orders, cash management, payments, service tickets, delivery workflows and daily operations.
+A **real-world laundry management system** for customers, orders, cash management, payments, service tickets, delivery workflows and daily operations.
 
 - **Stack:** Python 3.12 · Django 5.2 · PostgreSQL
-- **Focus:** business workflows, data consistency and maintainable operations.
+- **Focus:** real business workflows, data consistency, operational control and maintainable evolution.
 - **Status:** private operational project.
 
 ### 🤖 Carey Assistant
 
-Windows desktop assistant focused on personal productivity, automation and local AI.
+A **Windows desktop application** focused on personal assistance, automation and local AI.
 
 - **Stack:** Tauri · React · TypeScript · Rust · Ollama
-- **Features:** local AI chat, model selection, news, local caching, automation and desktop notifications.
+- **Includes:** local AI chat, model selection, news, local caching, automation and notifications.
 - **Main source code:** private.
-- **Public release:** [Carey Assistant v0.1.19](https://github.com/SC-Sergio/carey-assistant-releases/releases/tag/v0.1.19)
+- **Public distribution:** [Carey Assistant Releases](https://github.com/SC-Sergio/carey-assistant-releases)
 
 ### 🌐 [Portfolio v2](https://github.com/SC-Sergio/sergio-portfolio-v2)
 
-Professional portfolio with a modern visual identity and lightweight 3D experience.
+A modern professional portfolio with a technology-focused visual identity and a lightweight 3D experience.
 
 - **Stack:** Next.js · TypeScript · Tailwind CSS · Motion · Three.js
-- **Live site:** [sergio-portfolio-v2-roan.vercel.app](https://sergio-portfolio-v2-roan.vercel.app)
+- **Live demo:** [sergio-portfolio-v2-roan.vercel.app](https://sergio-portfolio-v2-roan.vercel.app)
 
 ### 🏟️ [CanchaClara](https://github.com/SC-Sergio/canchaclara)
 
-Web platform for sports field availability, booking and administration.
+Sports field availability, booking and administration platform.
 
 - **Stack:** Vue · JavaScript · MySQL
 
 ### 🚀 [SpaceX Falcon 9 Landing Prediction](https://github.com/SC-Sergio/SpaceX_Falcon9_Landing_Prediction)
 
-Data analysis and prediction project related to Falcon 9 landing outcomes.
+Data science project focused on Falcon 9 landing analysis and prediction.
 
 - **Primary format:** Jupyter Notebook
-- **Area:** data science and exploratory analysis.
+- **Area:** exploratory data analysis, visualization and machine learning.
 
 ---
 
-## Education & certification
+## Education and certifications
+
+<p align="center"><img src="./images/mahiro.png" width="110" alt="Illustration associated with learning and professional growth" /></p>
 
 ### 🎓 Informatics Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/INACAP-Informatics%20Engineering-C8102E?style=for-the-badge" alt="INACAP Informatics Engineering" />
+  <img src="https://img.shields.io/badge/Graduated-2024-374151?style=for-the-badge" alt="Graduated in 2024" />
+</p>
 
 **INACAP · Graduated in 2024**
 
@@ -126,10 +149,43 @@ Academic background in software development, databases, applied artificial intel
 ### ☁️ Oracle Cloud Infrastructure 2026 Certified AI Foundations Associate
 
 <p>
-  <img src="https://img.shields.io/badge/Oracle%20OCI%202026-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure 2026 Certified AI Foundations Associate" />
+  <img src="https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI AI Foundations Associate" />
+  <img src="https://img.shields.io/badge/Exam-1Z0--1122--26-8B1A1A?style=for-the-badge" alt="Exam 1Z0-1122-26" />
+  <img src="https://img.shields.io/badge/Status-Passed-15803D?style=for-the-badge" alt="Passed" />
 </p>
 
-**Exam:** 1Z0-1122-26
+Certification covering **artificial intelligence, machine learning and generative AI foundations in Oracle Cloud Infrastructure**. Exam passed in September 2026.
+
+### 📊 IBM Data Science · Coursera
+
+<p>
+  <img src="https://img.shields.io/badge/IBM-Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science" />
+  <img src="https://img.shields.io/badge/Coursera-2024%20Learning%20Path-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" />
+</p>
+
+In 2024 I completed an intensive **IBM Data Science learning path on Coursera**, covering Python, SQL, data analysis and visualization, machine learning, generative AI and a final SpaceX applied project.
+
+<details>
+<summary><strong>View completed courses</strong></summary>
+
+- Python for Data Science, AI & Development
+- What is Data Science?
+- Tools for Data Science
+- Data Science Methodology
+- Python Project for Data Science
+- Databases and SQL for Data Science with Python
+- Data Analysis with Python
+- Data Visualization with Python
+- Machine Learning with Python
+- Generative AI: Elevate Your Data Science Career
+- Applied Data Science Capstone
+- Data Scientist Career Guide and Interview Preparation
+
+</details>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/details/certifications/"><img src="https://img.shields.io/badge/LinkedIn-View%20credentials-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View LinkedIn credentials" /></a>
+</p>
 
 ---
 
@@ -137,25 +193,26 @@ Academic background in software development, databases, applied artificial intel
 
 - Applied AI, local assistants and automation.
 - Python, Django and PostgreSQL systems.
-- LLM integration in practical products.
+- Language-model integration in practical products.
 - Desktop applications with Tauri, React, TypeScript and Rust.
 - Data science, cloud technologies and continued academic growth in AI / computing.
+- Consolidating personal projects into a professional portfolio.
+
+---
+
+## Beyond code
+
+I also enjoy **video games, anime, artificial intelligence, technology and building digital tools**. This mix is part of the visual identity of this profile while the main focus remains technical and professional work.
 
 ---
 
 ## Contact
 
+<p align="center"><img src="./images/mahiro_box.png" width="105" alt="Illustration associated with contact" /></p>
+
 <p align="center">
-  <a href="https://sergio-portfolio-v2-roan.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/SC-Sergio">
-    <img src="https://img.shields.io/badge/GitHub-SC--Sergio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Carey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sergiocareyhola@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://sergio-portfolio-v2-roan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/SC-Sergio"><img src="https://img.shields.io/badge/GitHub-SC--Sergio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/"><img src="https://img.shields.io/badge/LinkedIn-Sergio%20Carey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sergiocareyhola@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
