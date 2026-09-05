@@ -116,44 +116,48 @@ Projeto de ciência de dados focado em análise e previsão de pousos do Falcon 
 
 <p align="center"><img src="./images/mahiro.png" width="110" alt="Ilustração associada a aprendizado e crescimento profissional" /></p>
 
-### 🎓 Engenharia de Informática
-
-<p>
-  <img src="https://img.shields.io/badge/INACAP-Engenharia%20de%20Informática-C8102E?style=for-the-badge" alt="INACAP" />
-  <img src="https://img.shields.io/badge/Formado-2024-374151?style=for-the-badge" alt="Formado em 2024" />
-</p>
-
-**INACAP · Formado em 2024**
-
-Formação em desenvolvimento de software, bancos de dados, inteligência artificial aplicada, dados e sistemas de informação.
+<p align="center"><strong>Ordem cronológica: mais recente → mais antigo</strong></p>
 
 ### ☁️ Oracle Cloud Infrastructure 2026 Certified AI Foundations Associate
 
 <p>
   <img src="https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI AI Foundations Associate" />
-  <img src="https://img.shields.io/badge/Exame-1Z0--1122--26-8B1A1A?style=for-the-badge" alt="Exame 1Z0-1122-26" />
+  <img src="https://img.shields.io/badge/Data-02%20Set%202026-374151?style=for-the-badge" alt="2 de setembro de 2026" />
   <img src="https://img.shields.io/badge/Status-Aprovado-15803D?style=for-the-badge" alt="Aprovado" />
 </p>
 
-Certificação sobre fundamentos de **inteligência artificial, machine learning e IA generativa no Oracle Cloud Infrastructure**. Exame aprovado em setembro de 2026.
+**Exame:** 1Z0-1122-26 · **Aprovado em 2 de setembro de 2026.**
+
+Certificação sobre fundamentos de **inteligência artificial, machine learning e IA generativa no Oracle Cloud Infrastructure**.
 
 ### 🛡️ Cisco Networking Academy · Fundamentos de Ciberseguridad
 
 <p>
   <img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy" />
-  <img src="https://img.shields.io/badge/Cibersegurança-Concluído%202026-0B5CAD?style=for-the-badge" alt="Credencial de cibersegurança concluída em 2026" />
+  <img src="https://img.shields.io/badge/Data-14%20Ago%202026-374151?style=for-the-badge" alt="14 de agosto de 2026" />
 </p>
 
-Concluí **Fundamentos de Ciberseguridad - Egresados INACAP** pela Cisco Networking Academy, obtendo certificado de conclusão e credencial digital em agosto de 2026.
+Concluí **Fundamentos de Ciberseguridad - Egresados INACAP** em **14 de agosto de 2026**, obtendo certificado de conclusão e credencial digital.
+
+### 🎓 Engenharia de Informática · INACAP
+
+<p>
+  <img src="https://img.shields.io/badge/INACAP-Engenharia%20de%20Informática-C8102E?style=for-the-badge" alt="INACAP" />
+  <img src="https://img.shields.io/badge/Título%20obtido-16%20Ago%202024-374151?style=for-the-badge" alt="Título obtido em 16 de agosto de 2024" />
+</p>
+
+**Título profissional obtido em 16 de agosto de 2024.** O certificado oficial do INACAP foi emitido em **24 de setembro de 2024**.
+
+Formação em desenvolvimento de software, bancos de dados, inteligência artificial aplicada, dados e sistemas de informação.
 
 ### 📊 IBM Data Science · Coursera
 
 <p>
   <img src="https://img.shields.io/badge/IBM-Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science" />
-  <img src="https://img.shields.io/badge/Coursera-Formação%202024-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" />
+  <img src="https://img.shields.io/badge/Conclusão-04%20Jul%202024-374151?style=for-the-badge" alt="Trajetória concluída em 4 de julho de 2024" />
 </p>
 
-Em 2024 concluí uma trajetória intensiva de **IBM Data Science na Coursera**, com conteúdos de Python, SQL, análise e visualização de dados, machine learning, IA generativa e um projeto final aplicado à SpaceX.
+Trajetória intensiva de **IBM Data Science na Coursera**, com conclusões verificadas entre **27 de junho e 4 de julho de 2024**. Inclui Python, SQL, análise e visualização de dados, machine learning, IA generativa e projeto final aplicado à SpaceX.
 
 <details>
 <summary><strong>Ver cursos concluídos</strong></summary>
