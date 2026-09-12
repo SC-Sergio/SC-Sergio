@@ -9,9 +9,7 @@
   <sub>Python · Django · PostgreSQL · Tauri · Rust</sub>
 </p>
 
-<p align="center">
-  Arica, Chile · Desenvolvendo software útil para problemas reais
-</p>
+<p align="center">Arica, Chile · Desenvolvendo software útil para problemas reais</p>
 
 <p align="center">
   <a href="https://sergio-portfolio-v2-roan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Ver%20site-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -33,9 +31,9 @@
 
 ---
 
-## Sobre mim / Whoami
+## Sobre mim / whoami
 
-<table>
+<table width="100%">
 <tr>
 <td width="68%" valign="top">
 
@@ -53,39 +51,45 @@ Desenvolvo soluções para problemas reais combinando **backend, bancos de dados
 
 </td>
 <td width="32%" align="center" valign="middle">
-  <img src="./images/mahiro_switch.png" width="150" alt="Mahiro representando adaptação e evolução tecnológica" />
+  <img src="./images/mahiro_switch.png" width="145" alt="Mahiro representando adaptação e evolução tecnológica" />
 </td>
 </tr>
 </table>
 
 ---
 
-## Current Focus
+## Foco atual
 
-| 🛠️ **BUILDING** | 🧠 **EXPLORING** | 📈 **GROWING** |
-| --- | --- | --- |
-| FastLaundry | IA aplicada | AI Engineering |
-| Carey Assistant | LLMs · RAG | Cloud |
-| Ferramentas de software | Automação | Dados |
+<table width="100%">
+<tr>
+<th width="33%">🛠️ CONSTRUINDO</th>
+<th width="33%">🧠 EXPLORANDO</th>
+<th width="34%">📈 APROFUNDANDO</th>
+</tr>
+<tr><td>FastLaundry</td><td>IA aplicada</td><td>AI Engineering</td></tr>
+<tr><td>Carey Assistant</td><td>LLMs · RAG</td><td>Cloud</td></tr>
+<tr><td>Ferramentas de software</td><td>Automação</td><td>Dados</td></tr>
+</table>
 
 ---
 
-## Tech Toolbox
+## Stack tecnológico
 
-<p align="center"><img src="./images/mahiro_thumb.png" width="105" alt="Mahiro associado ao stack tecnológico" /></p>
+<p align="center"><img src="./images/mahiro_thumb.png" width="100" alt="Mahiro associado ao stack tecnológico" /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,postgres,ts,react,nextjs,tauri,rust,kotlin,docker,linux,git&perline=6" alt="Tecnologias principais: Python, Django, PostgreSQL, TypeScript, React, Next.js, Tauri, Rust, Kotlin, Docker, Linux e Git" />
 </p>
 
-| Área | Stack principal |
-| --- | --- |
-| **Backend** | Python · Django · PostgreSQL |
-| **Frontend** | TypeScript · React · Next.js |
-| **Desktop** | Tauri · Rust |
-| **Mobile** | Kotlin · Android |
-| **IA** | LLMs · RAG · Ollama · APIs de IA |
-| **Infraestrutura** | Docker · Linux · Git/GitHub · Heroku · Vercel |
+<table width="100%">
+<tr><th width="25%">Área</th><th>Stack principal</th></tr>
+<tr><td><strong>Backend</strong></td><td>Python · Django · PostgreSQL</td></tr>
+<tr><td><strong>Frontend</strong></td><td>TypeScript · React · Next.js</td></tr>
+<tr><td><strong>Desktop</strong></td><td>Tauri · Rust</td></tr>
+<tr><td><strong>Mobile</strong></td><td>Kotlin · Android</td></tr>
+<tr><td><strong>IA</strong></td><td>LLMs · RAG · Ollama · APIs de IA</td></tr>
+<tr><td><strong>Infraestrutura</strong></td><td>Docker · Linux · Git/GitHub · Heroku · Vercel</td></tr>
+</table>
 
 <details>
 <summary><strong>🧰 Ver stack tecnológico completo</strong></summary>
@@ -106,11 +110,11 @@ Desenvolvo soluções para problemas reais combinando **backend, bancos de dados
 
 ---
 
-## Featured Projects
+## Projetos em destaque
 
-<p align="center"><img src="./images/mahiro_flex.png" width="115" alt="Mahiro associado a projetos e conquistas" /></p>
+<p align="center"><img src="./images/mahiro_flex.png" width="110" alt="Mahiro associado a projetos e conquistas" /></p>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <h3>🧺 FastLaundry</h3>
@@ -158,28 +162,31 @@ Desenvolvo soluções para problemas reais combinando **backend, bancos de dados
 
 ---
 
-## GitHub Activity
+## Atividade no GitHub
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SC-Sergio&amp;bg_color=0D1117&amp;color=8B949E&amp;line=F2A6C6&amp;point=7DD3FC&amp;area=true&amp;hide_border=true&amp;custom_title=Atividade%20de%20desenvolvimento%20%C2%B7%20%C3%BAltimos%2031%20dias" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SC-Sergio&amp;bg_color=FFFFFF&amp;color=57606A&amp;line=C75C8A&amp;point=0969DA&amp;area=true&amp;hide_border=true&amp;custom_title=Atividade%20de%20desenvolvimento%20%C2%B7%20%C3%BAltimos%2031%20dias" />
-    <img width="100%" alt="Atividade recente de GitHub de Sergio Carey" src="https://github-readme-activity-graph.vercel.app/graph?username=SC-Sergio&bg_color=FFFFFF&color=57606A&line=C75C8A&point=0969DA&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/contributions.dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-assets/contributions.light.svg" />
+    <img width="100%" alt="Resumo autogerado de contribuições de Sergio Carey" src="./profile-assets/contributions.light.svg" />
   </picture>
 </p>
 
+<p align="center"><sub>SVG gerado a partir da API do GitHub por GitHub Actions e armazenado neste repositório.</sub></p>
+
 ---
 
-## Education & Certifications
+## Formação e certificações
 
-<p align="center"><img src="./images/mahiro.png" width="115" alt="Mahiro associado ao aprendizado e crescimento profissional" /></p>
+<p align="center"><img src="./images/mahiro.png" width="110" alt="Mahiro associado ao aprendizado e crescimento profissional" /></p>
 
-| Formação / certificação | Ano |
-| --- | ---: |
-| ☁️ **Oracle Cloud Infrastructure 2026 Certified AI Foundations Associate** | **2026** |
-| 🛡️ **Cisco Networking Academy · Fundamentos de Ciberseguridad** | **2026** |
-| 🎓 **Engenharia de Informática · INACAP** | **2024** |
-| 📊 **IBM Data Science · Coursera** | **2024** |
+<table width="100%">
+<tr><th>Formação / certificação</th><th width="12%">Ano</th></tr>
+<tr><td>☁️ <strong>Oracle Cloud Infrastructure 2026 Certified AI Foundations Associate</strong></td><td align="center"><strong>2026</strong></td></tr>
+<tr><td>🛡️ <strong>Cisco Networking Academy · Fundamentos de Ciberseguridad</strong></td><td align="center"><strong>2026</strong></td></tr>
+<tr><td>🎓 <strong>Engenharia de Informática · INACAP</strong></td><td align="center"><strong>2024</strong></td></tr>
+<tr><td>📊 <strong>IBM Data Science · Coursera</strong></td><td align="center"><strong>2024</strong></td></tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/details/certifications/"><img src="https://img.shields.io/badge/LinkedIn-Ver%20credenciais-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver credenciais no LinkedIn" /></a>
@@ -232,22 +239,22 @@ Trajetória intensiva de **IBM Data Science na Coursera**, com conclusões verif
 
 ---
 
-## How I Build Software
+## Como desenvolvo software
 
-<p align="center"><img src="./images/mahiro_cry.png" width="105" alt="Mahiro representando debugging e melhoria contínua" /></p>
+<p align="center"><img src="./images/mahiro_cry.png" width="100" alt="Mahiro representando debugging e melhoria contínua" /></p>
 
-<p align="center"><strong>UNDERSTAND → DESIGN → BUILD → VALIDATE → DEPLOY → IMPROVE</strong></p>
+<p align="center"><strong>ENTENDER → PROJETAR → CONSTRUIR → VALIDAR → PUBLICAR → MELHORAR</strong></p>
 
-1. **UNDERSTAND** — Entender o problema e o fluxo real antes de implementar.
-2. **DESIGN** — Priorizar uma solução simples, sustentável e verificável.
-3. **BUILD** — Implementar de forma incremental e com limites claros.
-4. **VALIDATE** — Testar comportamento, integridade dos dados e regressões.
-5. **DEPLOY** — Proteger a separação entre desenvolvimento e produção.
-6. **IMPROVE** — Documentar decisões e continuar evoluindo o produto.
+1. **ENTENDER** — Entender o problema e o fluxo real antes de implementar.
+2. **PROJETAR** — Priorizar uma solução simples, sustentável e verificável.
+3. **CONSTRUIR** — Implementar de forma incremental e com limites claros.
+4. **VALIDAR** — Testar comportamento, integridade dos dados e regressões.
+5. **PUBLICAR** — Proteger a separação entre desenvolvimento e produção.
+6. **MELHORAR** — Documentar decisões e continuar evoluindo o produto.
 
 ---
 
-## Beyond Code
+## Além do código
 
 Além do desenvolvimento de software, gosto de **videogames, anime, inteligência artificial e tecnologia**. Esses interesses fazem parte da identidade visual deste perfil, mantendo sempre o foco principal em projetos técnicos e profissionais.
 
@@ -257,13 +264,13 @@ Além do desenvolvimento de software, gosto de **videogames, anime, inteligênci
 
 ---
 
-## Contribution Journey
+## Jornada de contribuições
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SC-Sergio/SC-Sergio/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SC-Sergio/SC-Sergio/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação de contribuições do GitHub de SC-Sergio" src="https://raw.githubusercontent.com/SC-Sergio/SC-Sergio/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação das contribuições de GitHub de SC-Sergio" src="https://raw.githubusercontent.com/SC-Sergio/SC-Sergio/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -271,7 +278,7 @@ Além do desenvolvimento de software, gosto de **videogames, anime, inteligênci
 
 ## Contato
 
-<p align="center"><img src="./images/mahiro_box.png" width="110" alt="Mahiro associado ao contato e despedida" /></p>
+<p align="center"><img src="./images/mahiro_box.png" width="105" alt="Mahiro associado ao contato e despedida" /></p>
 
 <p align="center">
   <a href="https://sergio-portfolio-v2-roan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visitar-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
