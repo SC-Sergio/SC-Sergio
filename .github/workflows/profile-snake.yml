@@ -4,6 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "15 3 * * *"
+  push:
+    branches:
+      - profile-redesign-v2
+    paths:
+      - ".github/workflows/profile-snake.yml"
 
 permissions:
   contents: write
