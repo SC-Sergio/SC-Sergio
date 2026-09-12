@@ -6,7 +6,7 @@ on:
     - cron: "30 3 * * *"
   push:
     branches:
-      - profile-redesign-v2
+      - main
     paths:
       - ".github/workflows/profile-cards.yml"
 
@@ -20,10 +20,10 @@ jobs:
 
     steps:
       - name: Checkout profile repository
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
 
       - name: Render self-hosted contribution cards
-        uses: seijikohara/profile-cards-action@v1
+        uses: seijikohara/profile-cards-action@927628661ecc21fba94cab7a96b63a4a1604382d
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: SC-Sergio
