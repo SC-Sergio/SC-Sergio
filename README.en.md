@@ -9,9 +9,7 @@
   <sub>Python · Django · PostgreSQL · Tauri · Rust</sub>
 </p>
 
-<p align="center">
-  Arica, Chile · Building useful software for real-world problems
-</p>
+<p align="center">Arica, Chile · Building useful software for real-world problems</p>
 
 <p align="center">
   <a href="https://sergio-portfolio-v2-roan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View%20website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -33,9 +31,9 @@
 
 ---
 
-## About / Whoami
+## About / whoami
 
-<table>
+<table width="100%">
 <tr>
 <td width="68%" valign="top">
 
@@ -53,7 +51,7 @@ I build solutions for real-world problems by combining **backend engineering, da
 
 </td>
 <td width="32%" align="center" valign="middle">
-  <img src="./images/mahiro_switch.png" width="150" alt="Mahiro representing technical adaptability and growth" />
+  <img src="./images/mahiro_switch.png" width="145" alt="Mahiro representing technical adaptability and growth" />
 </td>
 </tr>
 </table>
@@ -62,30 +60,36 @@ I build solutions for real-world problems by combining **backend engineering, da
 
 ## Current Focus
 
-| 🛠️ **BUILDING** | 🧠 **EXPLORING** | 📈 **GROWING** |
-| --- | --- | --- |
-| FastLaundry | Applied AI | AI Engineering |
-| Carey Assistant | LLMs · RAG | Cloud |
-| Software tools | Automation | Data |
+<table width="100%">
+<tr>
+<th width="33%">🛠️ BUILDING</th>
+<th width="33%">🧠 EXPLORING</th>
+<th width="34%">📈 GROWING</th>
+</tr>
+<tr><td>FastLaundry</td><td>Applied AI</td><td>AI Engineering</td></tr>
+<tr><td>Carey Assistant</td><td>LLMs · RAG</td><td>Cloud</td></tr>
+<tr><td>Software tools</td><td>Automation</td><td>Data</td></tr>
+</table>
 
 ---
 
 ## Tech Toolbox
 
-<p align="center"><img src="./images/mahiro_thumb.png" width="105" alt="Mahiro associated with the technology stack" /></p>
+<p align="center"><img src="./images/mahiro_thumb.png" width="100" alt="Mahiro associated with the technology stack" /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,postgres,ts,react,nextjs,tauri,rust,kotlin,docker,linux,git&perline=6" alt="Core technologies: Python, Django, PostgreSQL, TypeScript, React, Next.js, Tauri, Rust, Kotlin, Docker, Linux and Git" />
 </p>
 
-| Area | Core stack |
-| --- | --- |
-| **Backend** | Python · Django · PostgreSQL |
-| **Frontend** | TypeScript · React · Next.js |
-| **Desktop** | Tauri · Rust |
-| **Mobile** | Kotlin · Android |
-| **AI** | LLMs · RAG · Ollama · AI APIs |
-| **Infrastructure** | Docker · Linux · Git/GitHub · Heroku · Vercel |
+<table width="100%">
+<tr><th width="25%">Area</th><th>Core stack</th></tr>
+<tr><td><strong>Backend</strong></td><td>Python · Django · PostgreSQL</td></tr>
+<tr><td><strong>Frontend</strong></td><td>TypeScript · React · Next.js</td></tr>
+<tr><td><strong>Desktop</strong></td><td>Tauri · Rust</td></tr>
+<tr><td><strong>Mobile</strong></td><td>Kotlin · Android</td></tr>
+<tr><td><strong>AI</strong></td><td>LLMs · RAG · Ollama · AI APIs</td></tr>
+<tr><td><strong>Infrastructure</strong></td><td>Docker · Linux · Git/GitHub · Heroku · Vercel</td></tr>
+</table>
 
 <details>
 <summary><strong>🧰 View complete technology stack</strong></summary>
@@ -108,9 +112,9 @@ I build solutions for real-world problems by combining **backend engineering, da
 
 ## Featured Projects
 
-<p align="center"><img src="./images/mahiro_flex.png" width="115" alt="Mahiro associated with projects and achievements" /></p>
+<p align="center"><img src="./images/mahiro_flex.png" width="110" alt="Mahiro associated with projects and achievements" /></p>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <h3>🧺 FastLaundry</h3>
@@ -162,24 +166,27 @@ I build solutions for real-world problems by combining **backend engineering, da
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SC-Sergio&amp;bg_color=0D1117&amp;color=8B949E&amp;line=F2A6C6&amp;point=7DD3FC&amp;area=true&amp;hide_border=true&amp;custom_title=Development%20Activity%20%C2%B7%20Last%2031%20Days" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SC-Sergio&amp;bg_color=FFFFFF&amp;color=57606A&amp;line=C75C8A&amp;point=0969DA&amp;area=true&amp;hide_border=true&amp;custom_title=Development%20Activity%20%C2%B7%20Last%2031%20Days" />
-    <img width="100%" alt="Recent GitHub activity for Sergio Carey" src="https://github-readme-activity-graph.vercel.app/graph?username=SC-Sergio&bg_color=FFFFFF&color=57606A&line=C75C8A&point=0969DA&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/contributions.dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-assets/contributions.light.svg" />
+    <img width="100%" alt="Auto-generated contribution summary for Sergio Carey" src="./profile-assets/contributions.light.svg" />
   </picture>
 </p>
+
+<p align="center"><sub>SVG generated from the GitHub API by GitHub Actions and stored in this repository.</sub></p>
 
 ---
 
 ## Education & Certifications
 
-<p align="center"><img src="./images/mahiro.png" width="115" alt="Mahiro associated with learning and professional growth" /></p>
+<p align="center"><img src="./images/mahiro.png" width="110" alt="Mahiro associated with learning and professional growth" /></p>
 
-| Education / certification | Year |
-| --- | ---: |
-| ☁️ **Oracle Cloud Infrastructure 2026 Certified AI Foundations Associate** | **2026** |
-| 🛡️ **Cisco Networking Academy · Cybersecurity Foundations** | **2026** |
-| 🎓 **Informatics Engineering · INACAP** | **2024** |
-| 📊 **IBM Data Science · Coursera** | **2024** |
+<table width="100%">
+<tr><th>Education / certification</th><th width="12%">Year</th></tr>
+<tr><td>☁️ <strong>Oracle Cloud Infrastructure 2026 Certified AI Foundations Associate</strong></td><td align="center"><strong>2026</strong></td></tr>
+<tr><td>🛡️ <strong>Cisco Networking Academy · Cybersecurity Foundations</strong></td><td align="center"><strong>2026</strong></td></tr>
+<tr><td>🎓 <strong>Informatics Engineering · INACAP</strong></td><td align="center"><strong>2024</strong></td></tr>
+<tr><td>📊 <strong>IBM Data Science · Coursera</strong></td><td align="center"><strong>2024</strong></td></tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/details/certifications/"><img src="https://img.shields.io/badge/LinkedIn-View%20credentials-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View credentials on LinkedIn" /></a>
@@ -196,7 +203,7 @@ I build solutions for real-world problems by combining **backend engineering, da
 
 Certification covering **artificial intelligence, machine learning and generative AI foundations in Oracle Cloud Infrastructure**.
 
-### 🛡️ Cisco Networking Academy · Fundamentos de Ciberseguridad
+### 🛡️ Cisco Networking Academy · Cybersecurity Foundations
 
 Completed **Fundamentos de Ciberseguridad - Egresados INACAP** on **August 14, 2026**, earning a completion certificate and digital credential.
 
@@ -234,7 +241,7 @@ Intensive **IBM Data Science learning path on Coursera**, with verified course c
 
 ## How I Build Software
 
-<p align="center"><img src="./images/mahiro_cry.png" width="105" alt="Mahiro representing debugging and continuous improvement" /></p>
+<p align="center"><img src="./images/mahiro_cry.png" width="100" alt="Mahiro representing debugging and continuous improvement" /></p>
 
 <p align="center"><strong>UNDERSTAND → DESIGN → BUILD → VALIDATE → DEPLOY → IMPROVE</strong></p>
 
@@ -271,7 +278,7 @@ Beyond software development, I enjoy **video games, anime, artificial intelligen
 
 ## Contact
 
-<p align="center"><img src="./images/mahiro_box.png" width="110" alt="Mahiro associated with contact and farewell" /></p>
+<p align="center"><img src="./images/mahiro_box.png" width="105" alt="Mahiro associated with contact and farewell" /></p>
 
 <p align="center">
   <a href="https://sergio-portfolio-v2-roan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
