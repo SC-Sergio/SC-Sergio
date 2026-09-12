@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/bg.webp" width="100%" alt="Banner de Sergio Carey com identidade visual tecnológica e anime" />
+  <img src="./images/hero-mahiro-tech-dark-a.webp" width="100%" alt="Banner de Sergio Carey com identidade visual tecnológica e anime" />
 </p>
 
 <h1 align="center">Sergio Carey</h1>
