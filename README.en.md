@@ -37,15 +37,12 @@
 <tr>
 <td width="68%" valign="top">
 
-<pre>
-sergio@github:~$ whoami
-
-Name         Sergio Carey
-Role         Informatics Engineer
-Location     Arica, Chile
-Focus        Backend · Applied AI · Automation
-Building     Web · desktop · AI-powered software
-</pre>
+<code>sergio@github:~$ whoami</code><br/>
+<strong>Name</strong> Sergio Carey<br/>
+<strong>Role</strong> Informatics Engineer<br/>
+<strong>Location</strong> Arica, Chile<br/>
+<strong>Focus</strong> Backend · Applied AI · Automation<br/>
+<strong>Building</strong> Web · desktop · AI-powered software
 
 I build solutions for real-world problems by combining **backend engineering, databases, automation and applied artificial intelligence**. I am especially interested in turning concrete requirements into maintainable, useful software that can evolve over time.
 
@@ -60,16 +57,11 @@ I build solutions for real-world problems by combining **backend engineering, da
 
 ## Current Focus
 
-<table width="100%">
-<tr>
-<th width="33%">🛠️ BUILDING</th>
-<th width="33%">🧠 EXPLORING</th>
-<th width="34%">📈 GROWING</th>
-</tr>
-<tr><td>FastLaundry</td><td>Applied AI</td><td>AI Engineering</td></tr>
-<tr><td>Carey Assistant</td><td>LLMs · RAG</td><td>Cloud</td></tr>
-<tr><td>Software tools</td><td>Automation</td><td>Data</td></tr>
-</table>
+<p><strong>🛠️ BUILDING</strong><br/>FastLaundry · Carey Assistant · Software tools</p>
+
+<p><strong>🧠 EXPLORING</strong><br/>Applied AI · LLMs · RAG · Automation</p>
+
+<p><strong>📈 GROWING</strong><br/>AI Engineering · Cloud · Data</p>
 
 ---
 

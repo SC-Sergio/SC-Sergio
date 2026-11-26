@@ -37,15 +37,12 @@
 <tr>
 <td width="68%" valign="top">
 
-<pre>
-sergio@github:~$ whoami
-
-Nombre       Sergio Carey
-Rol          Ingeniero Informático
-Ubicación    Arica, Chile
-Foco         Backend · IA aplicada · Automatización
-Construyo    Software web · desktop · herramientas con IA
-</pre>
+<code>sergio@github:~$ whoami</code><br/>
+<strong>Nombre</strong> Sergio Carey<br/>
+<strong>Rol</strong> Ingeniero Informático<br/>
+<strong>Ubicación</strong> Arica, Chile<br/>
+<strong>Foco</strong> Backend · IA aplicada · Automatización<br/>
+<strong>Construyo</strong> Software web · desktop · herramientas con IA
 
 Desarrollo soluciones orientadas a problemas reales, combinando **backend, bases de datos, automatización e inteligencia artificial aplicada**. Me interesa transformar necesidades concretas en software mantenible, útil y preparado para evolucionar.
 
@@ -60,16 +57,11 @@ Desarrollo soluciones orientadas a problemas reales, combinando **backend, bases
 
 ## Enfoque actual
 
-<table width="100%">
-<tr>
-<th width="33%">🛠️ CONSTRUYENDO</th>
-<th width="33%">🧠 EXPLORANDO</th>
-<th width="34%">📈 PROFUNDIZANDO</th>
-</tr>
-<tr><td>FastLaundry</td><td>IA aplicada</td><td>AI Engineering</td></tr>
-<tr><td>Carey Assistant</td><td>LLMs · RAG</td><td>Cloud</td></tr>
-<tr><td>Herramientas de software</td><td>Automatización</td><td>Datos</td></tr>
-</table>
+<p><strong>🛠️ CONSTRUYENDO</strong><br/>FastLaundry · Carey Assistant · Herramientas de software</p>
+
+<p><strong>🧠 EXPLORANDO</strong><br/>IA aplicada · LLMs · RAG · Automatización</p>
+
+<p><strong>📈 PROFUNDIZANDO</strong><br/>AI Engineering · Cloud · Datos</p>
 
 ---
 
