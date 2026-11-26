@@ -1,0 +1,29 @@
+name: Validate profile README
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+    paths:
+      - "README*.md"
+      - "images/**"
+      - "profile-assets/v3/**"
+      - "scripts/**"
+      - ".github/workflows/profile-validate.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+
+      - name: Validate assets, references and translations
+        run: python3 scripts/validate_profile.py

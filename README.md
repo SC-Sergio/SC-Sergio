@@ -36,7 +36,8 @@ Desarrollo soluciones orientadas a problemas reales, combinando **backend, bases
 ```yaml
 # sergio@github:~$ whoami
 nombre: Sergio Carey
-rol: Ingeniero en Informática
+rol: >-
+  Ingeniero en Informática
 base: Arica, Chile
 foco:
   - Backend
@@ -183,7 +184,7 @@ Mi núcleo de trabajo es el **backend con Python y Django sobre PostgreSQL**, co
 
 ## <img src="./profile-assets/v3/chip-04-learning.svg" height="28" align="absmiddle" alt="04 ~/learning" /> Formación y certificaciones
 
-<img src="./images/mahiro-v2/mahiro-education.webp" align="left" width="29%" alt="Mahiro estudiando junto a libros, un portátil y una insignia de certificación" />
+<img src="./images/mahiro-v2/mahiro-education.webp" align="left" width="23%" alt="Mahiro estudiando junto a libros, un portátil y una insignia de certificación" />
 
 Título profesional en **Ingeniería en Informática** y certificaciones verificadas en **inteligencia artificial, ciberseguridad y ciencia de datos**.
 

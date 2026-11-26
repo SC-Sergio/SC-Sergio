@@ -220,7 +220,8 @@ def main() -> int:
     stale = []
     for path, content in files.items():
         if args.check:
-            if not path.exists() or path.read_text(encoding="utf-8") != content:
+            # Normalise line endings so a Windows checkout (autocrlf) still passes.
+            if not path.exists() or path.read_text(encoding="utf-8").replace("\r\n", "\n") != content:
                 stale.append(path.relative_to(ROOT).as_posix())
         else:
             path.parent.mkdir(parents=True, exist_ok=True)
