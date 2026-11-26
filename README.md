@@ -37,21 +37,18 @@
 <tr>
 <td width="68%" valign="top">
 
-<pre>
-sergio@github:~$ whoami
-
-Nombre       Sergio Carey
-Rol          Ingeniero Informático
-Ubicación    Arica, Chile
-Foco         Backend · IA aplicada · Automatización
-Construyo    Software web · desktop · herramientas con IA
-</pre>
+<code>sergio@github:~$ whoami</code><br/>
+<strong>Nombre</strong> Sergio Carey<br/>
+<strong>Rol</strong> Ingeniero Informático<br/>
+<strong>Ubicación</strong> Arica, Chile<br/>
+<strong>Foco</strong> Backend · IA aplicada · Automatización<br/>
+<strong>Construyo</strong> Software web · desktop · herramientas con IA
 
 Desarrollo soluciones orientadas a problemas reales, combinando **backend, bases de datos, automatización e inteligencia artificial aplicada**. Me interesa transformar necesidades concretas en software mantenible, útil y preparado para evolucionar.
 
 </td>
 <td width="32%" align="center" valign="middle">
-  <img src="./images/mahiro_switch.png" width="145" alt="Mahiro representando adaptación y evolución tecnológica" />
+  <img src="./images/mahiro-v2/mahiro-about-me.webp" width="145" alt="Mahiro representando adaptación y evolución tecnológica" />
 </td>
 </tr>
 </table>
@@ -60,22 +57,17 @@ Desarrollo soluciones orientadas a problemas reales, combinando **backend, bases
 
 ## Enfoque actual
 
-<table width="100%">
-<tr>
-<th width="33%">🛠️ CONSTRUYENDO</th>
-<th width="33%">🧠 EXPLORANDO</th>
-<th width="34%">📈 PROFUNDIZANDO</th>
-</tr>
-<tr><td>FastLaundry</td><td>IA aplicada</td><td>AI Engineering</td></tr>
-<tr><td>Carey Assistant</td><td>LLMs · RAG</td><td>Cloud</td></tr>
-<tr><td>Herramientas de software</td><td>Automatización</td><td>Datos</td></tr>
-</table>
+<p><strong>🛠️ CONSTRUYENDO</strong><br/>FastLaundry · Carey Assistant · Herramientas de software</p>
+
+<p><strong>🧠 EXPLORANDO</strong><br/>IA aplicada · LLMs · RAG · Automatización</p>
+
+<p><strong>📈 PROFUNDIZANDO</strong><br/>AI Engineering · Cloud · Datos</p>
 
 ---
 
 ## Stack tecnológico
 
-<p align="center"><img src="./images/mahiro_thumb.png" width="100" alt="Mahiro asociado al stack tecnológico" /></p>
+<p align="center"><img src="./images/mahiro-v2/mahiro-tech-stack.webp" width="155" alt="Mahiro asociado al stack tecnológico" /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,postgres,ts,react,nextjs,tauri,rust,kotlin,docker,linux,git&perline=6" alt="Tecnologías principales: Python, Django, PostgreSQL, TypeScript, React, Next.js, Tauri, Rust, Kotlin, Docker, Linux y Git" />
@@ -112,7 +104,7 @@ Desarrollo soluciones orientadas a problemas reales, combinando **backend, bases
 
 ## Proyectos destacados
 
-<p align="center"><img src="./images/mahiro_flex.png" width="110" alt="Mahiro asociado a proyectos y logros" /></p>
+<p align="center"><img src="./images/mahiro-v2/mahiro-projects.webp" width="155" alt="Mahiro asociado a proyectos y logros" /></p>
 
 <table width="100%">
 <tr>
@@ -178,7 +170,7 @@ Desarrollo soluciones orientadas a problemas reales, combinando **backend, bases
 
 ## Formación y certificaciones
 
-<p align="center"><img src="./images/mahiro.png" width="110" alt="Mahiro asociado al aprendizaje y crecimiento profesional" /></p>
+<p align="center"><img src="./images/mahiro-v2/mahiro-education.webp" width="155" alt="Mahiro asociado al aprendizaje y crecimiento profesional" /></p>
 
 <table width="100%">
 <tr><th>Formación / certificación</th><th width="12%">Año</th></tr>
@@ -241,7 +233,7 @@ Trayectoria intensiva de cursos de **IBM Data Science en Coursera**, con cursos 
 
 ## Cómo desarrollo software
 
-<p align="center"><img src="./images/mahiro_cry.png" width="100" alt="Mahiro representando debugging y mejora continua" /></p>
+<p align="center"><img src="./images/mahiro-v2/mahiro-debugging.webp" width="145" alt="Mahiro representando debugging y mejora continua" /></p>
 
 <p align="center"><strong>ENTENDER → DISEÑAR → CONSTRUIR → VALIDAR → DESPLEGAR → MEJORAR</strong></p>
 
@@ -278,7 +270,7 @@ Además del desarrollo de software, me interesan los **videojuegos, el anime, la
 
 ## Contacto
 
-<p align="center"><img src="./images/mahiro_box.png" width="105" alt="Mahiro asociado al contacto y despedida" /></p>
+<p align="center"><img src="./images/mahiro-v2/mahiro-contact.webp" width="145" alt="Mahiro asociado al contacto y despedida" /></p>
 
 <p align="center">
   <a href="https://sergio-portfolio-v2-roan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visitar-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
