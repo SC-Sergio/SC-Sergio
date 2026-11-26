@@ -51,7 +51,7 @@ Desenvolvo soluções para problemas reais combinando **backend, bancos de dados
 
 </td>
 <td width="32%" align="center" valign="middle">
-  <img src="./images/mahiro_switch.png" width="145" alt="Mahiro representando adaptação e evolução tecnológica" />
+  <img src="./images/mahiro-v2/mahiro-about-me.webp" width="145" alt="Mahiro representando adaptação e evolução tecnológica" />
 </td>
 </tr>
 </table>
@@ -75,7 +75,7 @@ Desenvolvo soluções para problemas reais combinando **backend, bancos de dados
 
 ## Stack tecnológico
 
-<p align="center"><img src="./images/mahiro_thumb.png" width="100" alt="Mahiro associado ao stack tecnológico" /></p>
+<p align="center"><img src="./images/mahiro-v2/mahiro-tech-stack.webp" width="155" alt="Mahiro associado ao stack tecnológico" /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,postgres,ts,react,nextjs,tauri,rust,kotlin,docker,linux,git&perline=6" alt="Tecnologias principais: Python, Django, PostgreSQL, TypeScript, React, Next.js, Tauri, Rust, Kotlin, Docker, Linux e Git" />
@@ -112,7 +112,7 @@ Desenvolvo soluções para problemas reais combinando **backend, bancos de dados
 
 ## Projetos em destaque
 
-<p align="center"><img src="./images/mahiro_flex.png" width="110" alt="Mahiro associado a projetos e conquistas" /></p>
+<p align="center"><img src="./images/mahiro-v2/mahiro-projects.webp" width="155" alt="Mahiro associado a projetos e conquistas" /></p>
 
 <table width="100%">
 <tr>
@@ -178,7 +178,7 @@ Desenvolvo soluções para problemas reais combinando **backend, bancos de dados
 
 ## Formação e certificações
 
-<p align="center"><img src="./images/mahiro.png" width="110" alt="Mahiro associado ao aprendizado e crescimento profissional" /></p>
+<p align="center"><img src="./images/mahiro-v2/mahiro-education.webp" width="155" alt="Mahiro associado ao aprendizado e crescimento profissional" /></p>
 
 <table width="100%">
 <tr><th>Formação / certificação</th><th width="12%">Ano</th></tr>
@@ -241,7 +241,7 @@ Trajetória intensiva de **IBM Data Science na Coursera**, com conclusões verif
 
 ## Como desenvolvo software
 
-<p align="center"><img src="./images/mahiro_cry.png" width="100" alt="Mahiro representando debugging e melhoria contínua" /></p>
+<p align="center"><img src="./images/mahiro-v2/mahiro-debugging.webp" width="145" alt="Mahiro representando debugging e melhoria contínua" /></p>
 
 <p align="center"><strong>ENTENDER → PROJETAR → CONSTRUIR → VALIDAR → PUBLICAR → MELHORAR</strong></p>
 
@@ -278,7 +278,7 @@ Além do desenvolvimento de software, gosto de **videogames, anime, inteligênci
 
 ## Contato
 
-<p align="center"><img src="./images/mahiro_box.png" width="105" alt="Mahiro associado ao contato e despedida" /></p>
+<p align="center"><img src="./images/mahiro-v2/mahiro-contact.webp" width="145" alt="Mahiro associado ao contato e despedida" /></p>
 
 <p align="center">
   <a href="https://sergio-portfolio-v2-roan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visitar-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
