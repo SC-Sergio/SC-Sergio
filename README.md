@@ -5,140 +5,170 @@
 <h1 align="center">Sergio Carey</h1>
 
 <p align="center">
-  <strong>Ingeniero Informático · Backend · IA aplicada · Automatización</strong><br/>
-  <sub>Python · Django · PostgreSQL · Tauri · Rust</sub>
-</p>
-
-<p align="center">Arica, Chile · Construyendo software útil para problemas reales</p>
-
-<p align="center">
-  <a href="https://sergio-portfolio-v2-roan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Ver%20sitio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" /></a>
-  <a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/"><img src="https://img.shields.io/badge/LinkedIn-Sergio%20Carey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sergiocareyhola@gmail.com"><img src="https://img.shields.io/badge/Correo-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
+  <strong>Ingeniero en Informática</strong> · Backend · IA aplicada · Automatización<br/>
+  <sub>📍 Arica, Chile &nbsp;·&nbsp; Construyendo software útil para problemas reales</sub>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=C75C8A&center=true&vCenter=true&width=700&height=45&lines=Backend+%C2%B7+IA+aplicada+%C2%B7+Automatizaci%C3%B3n;Construyendo+software+para+problemas+reales;Python+%C2%B7+Django+%C2%B7+PostgreSQL+%C2%B7+Tauri+%C2%B7+Rust" alt="Áreas de enfoque de Sergio Carey" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/v3/tagline-es-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-assets/v3/tagline-es-light.svg" />
+    <img src="./profile-assets/v3/tagline-es-light.svg" width="560" alt="Backend con Python, Django y PostgreSQL · IA aplicada con LLMs, RAG y Ollama · Escritorio con Tauri, Rust y React" />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/🇨🇱%20Español-Actual-2563EB?style=flat-square" alt="Español" /></a>
-  <a href="./README.en.md"><img src="https://img.shields.io/badge/🇬🇧%20English-View-0F766E?style=flat-square" alt="English" /></a>
-  <a href="./README.pt-BR.md"><img src="https://img.shields.io/badge/🇧🇷%20Português-Ver-16A34A?style=flat-square" alt="Português" /></a>
+  <a href="https://sergio-portfolio-v2-roan.vercel.app"><img src="https://img.shields.io/badge/Portafolio-Ver%20sitio-C75C8A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161B22" alt="Portafolio: ver sitio" /></a>
+  <a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/"><img src="https://img.shields.io/badge/LinkedIn-Sergio%20Carey-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn de Sergio Carey" /></a>
+  <a href="mailto:sergiocareyhola@gmail.com"><img src="https://img.shields.io/badge/Correo-Escríbeme-0E7490?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Enviar un correo" /></a>
 </p>
 
-<p align="center"><sub><a href="https://translate.google.com/translate?sl=es&tl=en&u=https%3A%2F%2Fgithub.com%2FSC-Sergio">🌐 Abrir con Google Translate</a></sub></p>
+<p align="center">
+  <sub>🇨🇱 <strong>Español</strong> &nbsp;·&nbsp; <a href="./README.en.md">🇬🇧 English</a> &nbsp;·&nbsp; <a href="./README.pt-BR.md">🇧🇷 Português</a></sub>
+</p>
 
----
+## <img src="./profile-assets/v3/chip-01-whoami.svg" height="28" align="absmiddle" alt="01 ~/whoami" /> Sobre mí
 
-## Sobre mí / whoami
-
-<table width="100%">
-<tr>
-<td width="68%" valign="top">
-
-<code>sergio@github:~$ whoami</code><br/>
-<strong>Nombre</strong> Sergio Carey<br/>
-<strong>Rol</strong> Ingeniero Informático<br/>
-<strong>Ubicación</strong> Arica, Chile<br/>
-<strong>Foco</strong> Backend · IA aplicada · Automatización<br/>
-<strong>Construyo</strong> Software web · desktop · herramientas con IA
+<img src="./images/mahiro-v2/mahiro-about-me.webp" align="right" width="31%" alt="Mahiro, la mascota del perfil, programando en un portátil rodeada de paneles de código, diagramas y bases de datos" />
 
 Desarrollo soluciones orientadas a problemas reales, combinando **backend, bases de datos, automatización e inteligencia artificial aplicada**. Me interesa transformar necesidades concretas en software mantenible, útil y preparado para evolucionar.
 
-</td>
-<td width="32%" align="center" valign="middle">
-  <img src="./images/mahiro-v2/mahiro-about-me.webp" width="145" alt="Mahiro representando adaptación y evolución tecnológica" />
-</td>
-</tr>
-</table>
+```yaml
+# sergio@github:~$ whoami
+nombre: Sergio Carey
+rol: >-
+  Ingeniero en Informática
+base: Arica, Chile
+foco:
+  - Backend
+  - IA aplicada
+  - Automatización
+construye:
+  - Software web
+  - Software de escritorio
+  - Herramientas con IA
+```
 
----
+**🛠️ Construyendo** — FastLaundry · Carey Assistant · Herramientas de software<br/>
+**🧠 Explorando** — IA aplicada · LLMs · RAG · Automatización<br/>
+**📈 Profundizando** — AI Engineering · Cloud · Datos
 
-## Enfoque actual
+<br clear="all" />
 
-<p><strong>🛠️ CONSTRUYENDO</strong><br/>FastLaundry · Carey Assistant · Herramientas de software</p>
+## <img src="./profile-assets/v3/chip-02-stack.svg" height="28" align="absmiddle" alt="02 ~/stack" /> Ecosistema tecnológico
 
-<p><strong>🧠 EXPLORANDO</strong><br/>IA aplicada · LLMs · RAG · Automatización</p>
+<img src="./images/mahiro-v2/mahiro-tech-stack.webp" align="left" width="29%" alt="Mahiro señalando paneles holográficos de código, redes neuronales y bases de datos" />
 
-<p><strong>📈 PROFUNDIZANDO</strong><br/>AI Engineering · Cloud · Datos</p>
+Mi núcleo de trabajo es el **backend con Python y Django sobre PostgreSQL**, complementado con interfaces en **TypeScript/React**, aplicaciones de escritorio con **Tauri y Rust** e **IA aplicada** con modelos locales y APIs.
 
----
+<img src="https://skillicons.dev/icons?i=python,django,postgres,ts,react,nextjs,tauri,rust,kotlin,docker,linux,git&perline=6" width="300" alt="Tecnologías principales: Python, Django, PostgreSQL, TypeScript, React, Next.js, Tauri, Rust, Kotlin, Docker, Linux y Git" />
 
-## Stack tecnológico
+<br clear="all" />
 
-<p align="center"><img src="./images/mahiro-v2/mahiro-tech-stack.webp" width="155" alt="Mahiro asociado al stack tecnológico" /></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,ts,react,nextjs,tauri,rust,kotlin,docker,linux,git&perline=6" alt="Tecnologías principales: Python, Django, PostgreSQL, TypeScript, React, Next.js, Tauri, Rust, Kotlin, Docker, Linux y Git" />
-</p>
-
-<table width="100%">
-<tr><th width="25%">Área</th><th>Stack principal</th></tr>
-<tr><td><strong>Backend</strong></td><td>Python · Django · PostgreSQL</td></tr>
-<tr><td><strong>Frontend</strong></td><td>TypeScript · React · Next.js</td></tr>
-<tr><td><strong>Desktop</strong></td><td>Tauri · Rust</td></tr>
-<tr><td><strong>Mobile</strong></td><td>Kotlin · Android</td></tr>
-<tr><td><strong>IA</strong></td><td>LLMs · RAG · Ollama · APIs de IA</td></tr>
-<tr><td><strong>Infraestructura</strong></td><td>Docker · Linux · Git/GitHub · Heroku · Vercel</td></tr>
-</table>
+| Área | Tecnologías principales |
+| --- | --- |
+| 🧩 **Backend** | `Python` `Django` `APIs REST` |
+| 🎨 **Frontend** | `TypeScript` `React` `Next.js` |
+| 🗄️ **Bases de datos** | `PostgreSQL` `MySQL` `SQLite` |
+| 🧠 **Inteligencia artificial** | `LLMs` `RAG` `Ollama` `APIs de IA` |
+| 🖥️ **Desktop y mobile** | `Tauri` `Rust` `Kotlin` `Android` |
+| ☁️ **Cloud e infraestructura** | `Docker` `Linux` `Git/GitHub` `Heroku` `Vercel` |
+| ⚙️ **Automatización e integraciones** | `Flujos automatizados` `Twilio` `APIs externas` |
 
 <details>
-<summary><strong>🧰 Ver stack tecnológico completo</strong></summary>
+<summary><strong>Ver inventario técnico completo</strong></summary>
 
 <br/>
 
 | Categoría | Tecnologías y herramientas |
 | --- | --- |
 | **Backend** | Python, Django, Flask, APIs REST, lógica de negocio |
-| **Datos** | PostgreSQL, MySQL, SQLite, Jupyter Notebook |
 | **Frontend** | JavaScript, TypeScript, React, Next.js, Vue, HTML, CSS, Tailwind CSS |
-| **Desktop / Mobile** | Tauri, Rust, Kotlin, Android |
-| **IA & automatización** | Ollama, LLMs, asistentes, prompting, RAG, flujos automatizados |
-| **Infraestructura** | Docker, Linux, Git/GitHub, Heroku, Vercel |
-| **Integraciones** | Twilio, APIs externas, RSS/Atom y servicios web |
+| **Bases de datos y datos** | PostgreSQL, MySQL, SQLite, Jupyter Notebook |
+| **Inteligencia artificial** | Ollama, LLMs, asistentes, prompting, RAG, APIs de IA |
+| **Desktop y mobile** | Tauri, Rust, Kotlin, Android |
+| **Cloud e infraestructura** | Docker, Linux, Git/GitHub, Heroku, Vercel |
+| **Automatización e integraciones** | Flujos automatizados, Twilio, APIs externas, RSS/Atom y servicios web |
 
 </details>
 
----
+## <img src="./profile-assets/v3/chip-03-projects.svg" height="28" align="absmiddle" alt="03 ~/projects" /> Proyectos destacados
 
-## Proyectos destacados
-
-<p align="center"><img src="./images/mahiro-v2/mahiro-projects.webp" width="155" alt="Mahiro asociado a proyectos y logros" /></p>
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
-<h3>🧺 FastLaundry</h3>
-<p><strong>Sistema de gestión operativo para una lavandería real</strong>, orientado a clientes, pedidos, caja, pagos, guías, reparto y operación diaria.</p>
-<p><code>Python 3.12</code> · <code>Django 5.2</code> · <code>PostgreSQL</code></p>
-<p><img src="https://img.shields.io/badge/Estado-Producción-15803D?style=flat-square" alt="Producción" /> <img src="https://img.shields.io/badge/Código-Privado-374151?style=flat-square" alt="Código privado" /></p>
-</td>
-<td width="50%" valign="top">
-<h3>🤖 Carey Assistant</h3>
-<p><strong>Asistente de escritorio para Windows</strong> enfocado en IA local, automatización y productividad.</p>
-<p><code>Tauri</code> · <code>React</code> · <code>TypeScript</code> · <code>Rust</code> · <code>Ollama</code></p>
-<p><a href="https://github.com/SC-Sergio/carey-assistant-releases"><img src="https://img.shields.io/badge/Ver-Releases-2563EB?style=flat-square&logo=github" alt="Ver releases" /></a></p>
+<td>
+
+<img src="./images/mahiro-v2/mahiro-projects.webp" align="right" width="27%" alt="Mahiro celebrando frente a un portátil con un despliegue completado con éxito" />
+
+**Software construido para necesidades concretas:** la operación diaria de un negocio real, herramientas de escritorio con IA local, desarrollo web y ciencia de datos.
+
+- 🧺 **FastLaundry** — gestión operativa · en producción
+- 🤖 **Carey Assistant** — IA local para Windows · releases públicas
+- 🌐 **Portfolio v2** — sitio profesional · demo en vivo
+- 🚀 **Falcon 9 Landing Prediction** — ciencia de datos · notebook público
+
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>🌐 Portfolio v2</h3>
-<p><strong>Portafolio profesional moderno</strong> con frontend interactivo, identidad tecnológica y experiencia 3D liviana.</p>
-<p><code>Next.js</code> · <code>TypeScript</code> · <code>Tailwind CSS</code> · <code>Three.js</code></p>
-<p><a href="https://github.com/SC-Sergio/sergio-portfolio-v2"><img src="https://img.shields.io/badge/Repositorio-GitHub-181717?style=flat-square&logo=github" alt="Repositorio" /></a> <a href="https://sergio-portfolio-v2-roan.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-111827?style=flat-square&logo=vercel" alt="Demo" /></a></p>
+<td>
+
+### 🧺 FastLaundry
+
+**Sistema de gestión operativo para una lavandería real.**<br/>
+**Resuelve:** la operación diaria del negocio: clientes, pedidos, caja, pagos, guías y reparto.
+
+`Python 3.12` `Django 5.2` `PostgreSQL`
+
+<img src="https://img.shields.io/badge/Estado-Producción-2EA043?style=flat-square" alt="Estado: en producción" /> <img src="https://img.shields.io/badge/Código-Privado-6E7681?style=flat-square" alt="Código privado" />
+
 </td>
-<td width="50%" valign="top">
-<h3>🚀 Falcon 9 Landing Prediction</h3>
-<p><strong>Proyecto de ciencia de datos y machine learning</strong> centrado en análisis y predicción de aterrizajes del Falcon 9.</p>
-<p><code>Python</code> · <code>Jupyter</code> · <code>Data Science</code> · <code>Machine Learning</code></p>
-<p><a href="https://github.com/SC-Sergio/SpaceX_Falcon9_Landing_Prediction"><img src="https://img.shields.io/badge/Repositorio-GitHub-181717?style=flat-square&logo=github" alt="Repositorio Falcon 9" /></a></p>
+</tr>
+<tr>
+<td>
+
+### 🤖 Carey Assistant
+
+**Asistente de escritorio para Windows enfocado en IA local, automatización y productividad.**<br/>
+**Resuelve:** acceso a modelos de IA locales y automatizaciones de productividad desde una aplicación de escritorio local-first.
+
+`Tauri` `React` `TypeScript` `Rust` `Ollama`
+
+<a href="https://github.com/SC-Sergio/carey-assistant-releases/releases"><img src="https://img.shields.io/github/v/release/SC-Sergio/carey-assistant-releases?display_name=tag&sort=semver&style=flat-square&label=Release&color=7C3AED" alt="Última release de Carey Assistant" /></a> <img src="https://img.shields.io/badge/Windows-x64-0E7490?style=flat-square" alt="Plataforma: Windows x64" /> <a href="https://github.com/SC-Sergio/carey-assistant-releases"><img src="https://img.shields.io/badge/Showcase-GitHub-161B22?style=flat-square&logo=github" alt="Repositorio público de releases" /></a>
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🌐 Portfolio v2
+
+**Portafolio profesional moderno con frontend interactivo, identidad tecnológica y experiencia 3D liviana.**<br/>
+**Resuelve:** reunir proyectos, experiencia y contacto en un sitio profesional propio.
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Three.js`
+
+<a href="https://github.com/SC-Sergio/sergio-portfolio-v2/actions/workflows/ci.yml"><img src="https://github.com/SC-Sergio/sergio-portfolio-v2/actions/workflows/ci.yml/badge.svg?branch=main" alt="Estado de CI del portafolio" /></a> <a href="https://sergio-portfolio-v2-roan.vercel.app"><img src="https://img.shields.io/badge/Demo-En%20vivo-C75C8A?style=flat-square&logo=vercel" alt="Demo en vivo" /></a> <a href="https://github.com/SC-Sergio/sergio-portfolio-v2"><img src="https://img.shields.io/badge/Repositorio-GitHub-161B22?style=flat-square&logo=github" alt="Repositorio del portafolio" /></a>
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🚀 Falcon 9 Landing Prediction
+
+**Proyecto de ciencia de datos y machine learning centrado en análisis y predicción de aterrizajes del Falcon 9.**<br/>
+**Resuelve:** clasificar si la primera etapa aterrizará con éxito a partir de datos de lanzamientos, con SQL, mapas geoespaciales y modelos de clasificación.
+
+`Python` `Jupyter` `SQL` `Folium` `Machine Learning`
+
+<img src="https://img.shields.io/badge/Notebook-Público-0E7490?style=flat-square&logo=jupyter&logoColor=white" alt="Notebook público" /> <a href="https://github.com/SC-Sergio/SpaceX_Falcon9_Landing_Prediction"><img src="https://img.shields.io/badge/Repositorio-GitHub-161B22?style=flat-square&logo=github" alt="Repositorio Falcon 9" /></a>
+
 </td>
 </tr>
 </table>
 
 <details>
-<summary><strong>📂 Ver otros proyectos y repositorios</strong></summary>
+<summary><strong>Ver otros proyectos y repositorios</strong></summary>
 
 <br/>
 
@@ -152,40 +182,25 @@ Desarrollo soluciones orientadas a problemas reales, combinando **backend, bases
 
 </details>
 
----
+## <img src="./profile-assets/v3/chip-04-learning.svg" height="28" align="absmiddle" alt="04 ~/learning" /> Formación y certificaciones
 
-## Actividad en GitHub
+<img src="./images/mahiro-v2/mahiro-education.webp" align="left" width="23%" alt="Mahiro estudiando junto a libros, un portátil y una insignia de certificación" />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/contributions.dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-assets/contributions.light.svg" />
-    <img width="100%" alt="Resumen autogenerado de contribuciones de Sergio Carey" src="./profile-assets/contributions.light.svg" />
-  </picture>
-</p>
+Título profesional en **Ingeniería en Informática** y certificaciones verificadas en **inteligencia artificial, ciberseguridad y ciencia de datos**.
 
-<p align="center"><sub>SVG generado desde la API de GitHub por GitHub Actions y almacenado en este repositorio.</sub></p>
+| Año | Formación / certificación |
+| :---: | --- |
+| **2026** | ☁️ **Oracle Cloud Infrastructure 2026 Certified AI Foundations Associate**<br/><sub>Oracle · Examen 1Z0-1122-26</sub> |
+| **2026** | 🛡️ **Cisco Networking Academy · Fundamentos de Ciberseguridad**<br/><sub>Certificado de finalización y credencial digital</sub> |
+| **2024** | 🎓 **Ingeniería en Informática · INACAP**<br/><sub>Título profesional</sub> |
+| **2024** | 📊 **IBM Data Science · Coursera**<br/><sub>12 cursos completados</sub> |
 
----
+<a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/details/certifications/"><img src="https://img.shields.io/badge/LinkedIn-Ver%20credenciales-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="Ver credenciales en LinkedIn" /></a>
 
-## Formación y certificaciones
-
-<p align="center"><img src="./images/mahiro-v2/mahiro-education.webp" width="155" alt="Mahiro asociado al aprendizaje y crecimiento profesional" /></p>
-
-<table width="100%">
-<tr><th>Formación / certificación</th><th width="12%">Año</th></tr>
-<tr><td>☁️ <strong>Oracle Cloud Infrastructure 2026 Certified AI Foundations Associate</strong></td><td align="center"><strong>2026</strong></td></tr>
-<tr><td>🛡️ <strong>Cisco Networking Academy · Fundamentos de Ciberseguridad</strong></td><td align="center"><strong>2026</strong></td></tr>
-<tr><td>🎓 <strong>Ingeniería en Informática · INACAP</strong></td><td align="center"><strong>2024</strong></td></tr>
-<tr><td>📊 <strong>IBM Data Science · Coursera</strong></td><td align="center"><strong>2024</strong></td></tr>
-</table>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/details/certifications/"><img src="https://img.shields.io/badge/LinkedIn-Ver%20credenciales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver credenciales en LinkedIn" /></a>
-</p>
+<br clear="all" />
 
 <details>
-<summary><strong>🎓 Ver formación y certificaciones en detalle</strong></summary>
+<summary><strong>Ver formación y certificaciones en detalle</strong></summary>
 
 <br/>
 
@@ -229,13 +244,44 @@ Trayectoria intensiva de cursos de **IBM Data Science en Coursera**, con cursos 
 
 </details>
 
----
+## <img src="./profile-assets/v3/chip-05-activity.svg" height="28" align="absmiddle" alt="05 ~/activity" /> Actividad en GitHub
 
-## Cómo desarrollo software
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/contributions.dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-assets/contributions.light.svg" />
+    <img width="100%" alt="Resumen autogenerado de contribuciones de Sergio Carey" src="./profile-assets/contributions.light.svg" />
+  </picture>
+</p>
 
-<p align="center"><img src="./images/mahiro-v2/mahiro-debugging.webp" width="145" alt="Mahiro representando debugging y mejora continua" /></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SC-Sergio/SC-Sergio/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SC-Sergio/SC-Sergio/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Animación de contribuciones de GitHub de SC-Sergio" src="https://raw.githubusercontent.com/SC-Sergio/SC-Sergio/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-<p align="center"><strong>ENTENDER → DISEÑAR → CONSTRUIR → VALIDAR → DESPLEGAR → MEJORAR</strong></p>
+<p align="center"><sub>Generado a diario por GitHub Actions desde la API de GitHub: la tarjeta se guarda en este repositorio y la animación en la rama <code>output</code>.</sub></p>
+
+## <img src="./profile-assets/v3/chip-06-workflow.svg" height="28" align="absmiddle" alt="06 ~/workflow" /> Cómo desarrollo software
+
+<img src="./images/mahiro-v2/mahiro-debugging.webp" align="right" width="29%" alt="Mahiro depurando código y resolviendo una alerta en un flujo de trabajo" />
+
+Trato cada proyecto como un ciclo de ingeniería: **entender antes de construir, validar antes de desplegar y documentar para seguir mejorando.**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/v3/workflow-es-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-assets/v3/workflow-es-light.svg" />
+  <img src="./profile-assets/v3/workflow-es-light.svg" width="440" alt="Flujo de desarrollo: 1 Entender, 2 Diseñar, 3 Construir, 4 Validar, 5 Desplegar, 6 Mejorar" />
+</picture>
+
+<br clear="all" />
+
+<details>
+<summary><strong>Ver el detalle de cada etapa</strong></summary>
+
+<br/>
 
 1. **ENTENDER** — Entender el problema y el flujo real antes de implementar.
 2. **DISEÑAR** — Priorizar una solución simple, mantenible y verificable.
@@ -244,38 +290,29 @@ Trayectoria intensiva de cursos de **IBM Data Science en Coursera**, con cursos 
 5. **DESPLEGAR** — Proteger la separación entre desarrollo y producción.
 6. **MEJORAR** — Documentar decisiones y seguir evolucionando el producto.
 
----
+</details>
 
-## Más allá del código
+## <img src="./profile-assets/v3/chip-07-offline.svg" height="28" align="absmiddle" alt="07 ~/offline" /> Más allá del código
 
-Además del desarrollo de software, me interesan los **videojuegos, el anime, la inteligencia artificial y la tecnología**. Son parte de la identidad visual de este perfil, manteniendo siempre el foco principal en proyectos técnicos y profesionales.
+Además del desarrollo de software, me interesan los **videojuegos, el anime, la inteligencia artificial y la tecnología**. Son parte de la identidad visual de este perfil —incluida Mahiro, la mascota que acompaña cada sección—, manteniendo siempre el foco principal en proyectos técnicos y profesionales.
 
-<p align="center">
-  <a href="https://steamcommunity.com/profiles/76561198080346056/"><img src="https://img.shields.io/badge/Steam-Perfil%20gamer-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Perfil de Steam" /></a>
-</p>
+<a href="https://steamcommunity.com/profiles/76561198080346056/"><img src="https://img.shields.io/badge/Steam-Perfil%20gamer-1B2838?style=flat-square&logo=steam&logoColor=white" alt="Perfil de Steam" /></a>
 
----
-
-## Recorrido de contribuciones
+## <img src="./profile-assets/v3/chip-08-contact.svg" height="28" align="absmiddle" alt="08 ~/contact" /> Conectemos
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SC-Sergio/SC-Sergio/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SC-Sergio/SC-Sergio/output/github-contribution-grid-snake.svg" />
-    <img alt="Animación de contribuciones de GitHub de SC-Sergio" src="https://raw.githubusercontent.com/SC-Sergio/SC-Sergio/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="./images/mahiro-v2/mahiro-contact.webp" width="24%" alt="Mahiro saludando con una tablet, rodeada de iconos de correo, mensajes y conexiones" />
 </p>
-
----
-
-## Contacto
-
-<p align="center"><img src="./images/mahiro-v2/mahiro-contact.webp" width="145" alt="Mahiro asociado al contacto y despedida" /></p>
 
 <p align="center">
-  <a href="https://sergio-portfolio-v2-roan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visitar-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/"><img src="https://img.shields.io/badge/LinkedIn-Sergio%20Carey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sergiocareyhola@gmail.com"><img src="https://img.shields.io/badge/Correo-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
+  <strong>¿Tienes un proyecto, una idea o una oportunidad?</strong><br/>
+  Conversemos sobre backend, IA aplicada, automatización o colaboración en software.
 </p>
 
-<p align="center"><strong>Gracias por visitar mi perfil.</strong></p>
+<p align="center">
+  <a href="https://sergio-portfolio-v2-roan.vercel.app"><img src="https://img.shields.io/badge/Portafolio-Visitar-C75C8A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161B22" alt="Visitar portafolio" /></a>
+  <a href="https://www.linkedin.com/in/sergio-enrique-carey-alegre-58b318174/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="Conectar en LinkedIn" /></a>
+  <a href="mailto:sergiocareyhola@gmail.com"><img src="https://img.shields.io/badge/Correo-Escríbeme-0E7490?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Enviar un correo" /></a>
+</p>
+
+<p align="center"><sub>Gracias por visitar mi perfil · Sergio Carey · Arica, Chile</sub></p>
